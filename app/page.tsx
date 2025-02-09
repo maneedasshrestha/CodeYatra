@@ -10,15 +10,16 @@ import { Truck, Moon, Sun } from "lucide-react"
 // Replace with your actual Mapbox access token
 mapboxgl.accessToken = "pk.eyJ1IjoiZ3dhY2giLCJhIjoiY200MTI4bnBtMDZpeDJqcjJodzlsbG12ayJ9.Xa2O7gqDu4IPYxSfjsY6WQ"
 
-const LANDFILL_COORDINATES: [number, number] = [85.34281612330756, 27.70252062329233] // Kathmandu landfill site coordinates
+const LANDFILL_COORDINATES: [number, number] = [85.30033228536395 , 27.69405066813316] // Kathmandu landfill site coordinates
 const DUSTBIN_LOCATIONS = [
-  { id: 1, coordinates: [85.34128890894436 , 27.703639040684504] },
-  { id: 2, coordinates: [85.3417126315685 , 27.70086706042217] },
-  { id: 3, coordinates: [85.3431527117119 , 27.6996338033092] },
-  { id: 4, coordinates: [85.34397761193613 , 27.70199725320812] },
-  { id: 5, coordinates: [85.34474937674 , 27.7048155617118] },
-  { id: 6, coordinates: [85.33786848233 , 27.701880331901] },
-  { id: 7, coordinates: [85.34560664362488 , 27.699341327965] },
+  { id: 1, coordinates: [85.30005773358675 , 27.693631684961854] },
+  { id: 2, coordinates: [85.30108847875864 , 27.69359973157507] },
+  { id: 3, coordinates: [85.30129611325015 , 27.692696922210384] },
+  { id: 4, coordinates: [85.29853880248082 , 27.6943118896085] },
+  { id: 5, coordinates: [85.30185937708569 , 27.69366590551727] },
+  { id: 6, coordinates: [85.30161261386787 , 27.694269140779436] },
+  { id: 7, coordinates: [85.30043244195663 , 27.695038617141755] },
+  { id: 7, coordinates: [85.29975652531529 , 27.692796670882156] },
 ]
 
 export default function WasteMap() {

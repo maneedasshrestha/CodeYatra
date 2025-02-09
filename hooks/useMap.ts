@@ -20,7 +20,7 @@ export function useMap(container: MutableRefObject<null>, center: [number, numbe
         container: container.current,
         style: isDarkMode ? "mapbox://styles/mapbox/dark-v10" : "mapbox://styles/mapbox/light-v10",
         center: center,
-        zoom: 13,
+        zoom: 17,
       })
 
       mapInstance.on("load", () => {
