@@ -84,9 +84,9 @@ The admin interface will be available at `http://localhost:3001`
 ### Backend
 ```bash
 cd backend
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 python main1.py
 ```
+Note: It is recommended that user create  virtual environment inside the backend folder and install all dependencies there.
 The API will be available at `http://localhost:8000`
 
 ## Project Structure
