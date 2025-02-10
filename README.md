@@ -117,25 +117,15 @@ The API will be available at `http://localhost:8000`
 ## API Documentation
 
 ### Main Endpoints
-[//]: # (TODO: change api documentations)
+
 
 - `POST /api/predict`: Run AI model prediction
-  ```json
-  {
-    "input": "example_input",
-    "parameters": {}
-  }
-  ```
+  Input: image file
 
-- `GET /api/map-data`: Retrieve map visualization data
-  ```json
-  {
-    "type": "FeatureCollection",
-    "features": []
-  }
-  ```
-
-[Add more endpoints as needed]
+- `POST /api/analyze`: Retrieve visualization data
+  Input: Csv file
+- `POST /api/chat`: Run chatbot
+  Input String object
 
 
 
