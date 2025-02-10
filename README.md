@@ -1,104 +1,160 @@
-<a href="https://demo-nextjs-with-supabase.vercel.app/">
-  <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
-  <h1 align="center">Next.js and Supabase Starter Kit</h1>
-</a>
+# AI-Powered Mapping Application
 
-<p align="center">
- The fastest way to build apps with Next.js and Supabase
-</p>
+A full-stack application combining Next.js frontends with Python AI backend and Mapbox integration.
 
-<p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#demo"><strong>Demo</strong></a> ·
-  <a href="#deploy-to-vercel"><strong>Deploy to Vercel</strong></a> ·
-  <a href="#clone-and-run-locally"><strong>Clone and run locally</strong></a> ·
-  <a href="#feedback-and-issues"><strong>Feedback and issues</strong></a>
-  <a href="#more-supabase-examples"><strong>More Examples</strong></a>
-</p>
-<br/>
+## Project Overview
 
-## Features
+This project consists of two main components:
+- A primary Next.js frontend with Mapbox integration for geographic visualization
+- A Python backend running AI models, with its own Next.js admin interface
 
-- Works across the entire [Next.js](https://nextjs.org) stack
-  - App Router
-  - Pages Router
-  - Middleware
-  - Client
-  - Server
-  - It just works!
-- supabase-ssr. A package to configure Supabase Auth to use cookies
-- Styling with [Tailwind CSS](https://tailwindcss.com)
-- Components with [shadcn/ui](https://ui.shadcn.com/)
-- Optional deployment with [Supabase Vercel Integration and Vercel deploy](#deploy-your-own)
-  - Environment variables automatically assigned to Vercel project
+## Architecture
 
-## Demo
+### Frontend Stack
+- **Framework**: Next.js
+- **Mapping**: Mapbox GL JS
+- **Styling**: Tailwind
+- **UI library**: Shadcn
 
-You can view a fully working demo at [demo-nextjs-with-supabase.vercel.app](https://demo-nextjs-with-supabase.vercel.app/).
+### Backend Stack
+- **AI Server**: Python
+- **Admin Interface**: Next.js
+- **API Framework**: FastAPI
+- **Database**: Supabase
 
-## Deploy to Vercel
+## Prerequisites
 
-Vercel deployment will guide you through creating a Supabase account and project.
+- Node.js (v18 or higher)
+- Python 3.8+
+- Mapbox API key
+- Gemini API key
 
-After installation of the Supabase integration, all relevant environment variables will be assigned to the project so the deployment is fully functioning.
+## Installation
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fwith-supabase&project-name=nextjs-with-supabase&repository-name=nextjs-with-supabase&demo-title=nextjs-with-supabase&demo-description=This+starter+configures+Supabase+Auth+to+use+cookies%2C+making+the+user%27s+session+available+throughout+the+entire+Next.js+app+-+Client+Components%2C+Server+Components%2C+Route+Handlers%2C+Server+Actions+and+Middleware.&demo-url=https%3A%2F%2Fdemo-nextjs-with-supabase.vercel.app%2F&external-id=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fwith-supabase&demo-image=https%3A%2F%2Fdemo-nextjs-with-supabase.vercel.app%2Fopengraph-image.png)
+1. Clone the repository:
+```bash
+git clone https://github.com/maneedasshrestha/CodeYatra.git  
+cd CodeYatra
+```
 
-The above will also clone the Starter kit to your GitHub, you can clone that locally and develop locally.
+2. Install frontend dependencies:
+```bash
+cd frontend
+npm install
+```
 
-If you wish to just develop locally and not deploy to Vercel, [follow the steps below](#clone-and-run-locally).
+3. Install admin frontend dependencies:
+```bash
+cd ../admin-frontend
+npm install
+```
 
-## Clone and run locally
+4. Set up Python environment and install backend dependencies:
+```bash
+cd ../backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-1. You'll first need a Supabase project which can be made [via the Supabase dashboard](https://database.new)
+## Configuration
 
-2. Create a Next.js app using the Supabase Starter template npx command
+1. Create `.env.local` in the frontend directory:
+```
+NEXT_PUBLIC_MAPBOX_TOKEN=your_mapbox_token
+API_BASE_URL=your_backend_url
+```
 
-   ```bash
-   npx create-next-app --example with-supabase with-supabase-app
-   ```
+2. Create `.env` in the backend directory:
+```
+MODEL_PATH=path_to_ai_model
+DATABASE_URL=your_database_url
+```
 
-   ```bash
-   yarn create next-app --example with-supabase with-supabase-app
-   ```
+## Running the Application
+[//]: # (TODO: change the frontend, admin-frontend and backend directories)
 
-   ```bash
-   pnpm create next-app --example with-supabase with-supabase-app
-   ```
+### Frontend
+```bash
+cd frontend
+npm run dev
+```
+The application will be available at `http://localhost:3000`
 
-3. Use `cd` to change into the app's directory
+### Admin Frontend
+```bash
+cd admin-frontend
+npm run dev
+```
+The admin interface will be available at `http://localhost:3001`
 
-   ```bash
-   cd with-supabase-app
-   ```
+### Backend
+```bash
+cd backend
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+python main.py
+```
+The API will be available at `http://localhost:8000`
 
-4. Rename `.env.example` to `.env.local` and update the following:
+## Project Structure
 
-   ```
-   NEXT_PUBLIC_SUPABASE_URL=[INSERT SUPABASE PROJECT URL]
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=[INSERT SUPABASE PROJECT API ANON KEY]
-   ```
+```
+├── frontend/               # Main Next.js frontend
+│   ├── components/        # React components
+│   ├── pages/            # Next.js pages
+│   └── public/           # Static assets
+│
+├── admin-frontend/        # Admin interface
+│   ├── components/       # Admin components
+│   └── pages/           # Admin pages
+│
+└── backend/              # Python backend
+    ├── models/          # AI models
+    ├── api/            # API endpoints
+    └── utils/          # Utility functions
+```
 
-   Both `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` can be found in [your Supabase project's API settings](https://app.supabase.com/project/_/settings/api)
+## API Documentation
 
-5. You can now run the Next.js local development server:
+### Main Endpoints
+[//]: # (TODO: change api documentations)
 
-   ```bash
-   npm run dev
-   ```
+- `POST /api/predict`: Run AI model prediction
+  ```json
+  {
+    "input": "example_input",
+    "parameters": {}
+  }
+  ```
 
-   The starter kit should now be running on [localhost:3000](http://localhost:3000/).
+- `GET /api/map-data`: Retrieve map visualization data
+  ```json
+  {
+    "type": "FeatureCollection",
+    "features": []
+  }
+  ```
 
-6. This template comes with the default shadcn/ui style initialized. If you instead want other ui.shadcn styles, delete `components.json` and [re-install shadcn/ui](https://ui.shadcn.com/docs/installation/next)
+[Add more endpoints as needed]
 
-> Check out [the docs for Local Development](https://supabase.com/docs/guides/getting-started/local-development) to also run Supabase locally.
 
-## Feedback and issues
 
-Please file feedback and issues over on the [Supabase GitHub org](https://github.com/supabase/supabase/issues/new/choose).
+## Deployment
 
-## More Supabase examples
+[Include deployment instructions specific to your setup]
 
-- [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
-- [Cookie-based Auth and the Next.js 13 App Router (free course)](https://youtube.com/playlist?list=PL5S4mPUpp4OtMhpnp93EFSo42iQ40XjbF)
-- [Supabase Auth and the Next.js App Router](https://github.com/supabase/supabase/tree/master/examples/auth/nextjs)
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to the branch
+5. Create a Pull Request
+
+## License
+
+[
+
+## Support
+
+For support, please [contact information or process]
