@@ -1,0 +1,3703 @@
+timestamp,predicted_class,confidence,image_name,day_of_week,month
+2/9/2024 8:20,organic,0.9594442371794227,food_waste.jpg,Friday,February
+2/9/2024 8:36,paper,0.9237718406268536,newspaper_stack.jpg,Friday,February
+2/9/2024 8:46,glass,0.956172536542366,glass_jars.jpg,Friday,February
+2/9/2024 8:53,plastic,0.9624584157318753,plastic_containers.jpg,Friday,February
+2/9/2024 9:56,mixed,0.9972380248959096,misc_garbage.jpg,Friday,February
+2/9/2024 10:07,clothes,0.9769785785713734,fabric_scraps.jpg,Friday,February
+2/9/2024 10:37,organic,0.8873070340001985,food_waste.jpg,Friday,February
+2/9/2024 10:54,mixed,0.9640377409587096,misc_garbage.jpg,Friday,February
+2/9/2024 12:53,paper,0.9731915390854582,paper_waste.jpg,Friday,February
+2/9/2024 13:18,metal,0.9357888816778033,aluminum_cans.jpg,Friday,February
+2/9/2024 14:17,plastic,0.9264949207612162,plastic_waste_pile.jpg,Friday,February
+2/9/2024 16:28,e-waste,0.96118201176213,electronic_waste.jpg,Friday,February
+2/9/2024 17:20,metal,0.8879288437648245,metal_scraps.jpg,Friday,February
+2/9/2024 18:25,metal,0.9035821247105809,aluminum_cans.jpg,Friday,February
+2/9/2024 19:10,paper,0.9184717027855147,paper_waste.jpg,Friday,February
+2/10/2024 8:13,paper,0.8908499183268332,paper_waste.jpg,Saturday,February
+2/10/2024 8:45,mixed,0.966389742088072,misc_garbage.jpg,Saturday,February
+2/10/2024 9:11,plastic,0.9953532987781634,plastic_bottle_recycling.jpg,Saturday,February
+2/10/2024 9:26,e-waste,0.8816370507519826,electronic_waste.jpg,Saturday,February
+2/10/2024 9:53,plastic,0.8757039358172831,plastic_bottle_recycling.jpg,Saturday,February
+2/10/2024 10:38,glass,0.8828941665305399,broken_glass.jpg,Saturday,February
+2/10/2024 14:56,paper,0.9640021496499033,newspaper_stack.jpg,Saturday,February
+2/10/2024 15:00,mixed,0.9279438987458974,mixed_waste.jpg,Saturday,February
+2/10/2024 15:51,plastic,0.9132519725428768,plastic_waste_pile.jpg,Saturday,February
+2/10/2024 16:20,clothes,0.9126830289954437,textile_waste.jpg,Saturday,February
+2/10/2024 16:48,glass,0.9989045771906129,glass_jars.jpg,Saturday,February
+2/10/2024 16:57,organic,0.8816043643612431,compost_materials.jpg,Saturday,February
+2/10/2024 17:45,organic,0.8823761709914757,compost_materials.jpg,Saturday,February
+2/10/2024 18:14,organic,0.9671017255151528,compost_materials.jpg,Saturday,February
+2/10/2024 20:58,mixed,0.8993755526441599,mixed_waste.jpg,Saturday,February
+2/11/2024 8:02,mixed,0.9575707907347164,mixed_waste.jpg,Sunday,February
+2/11/2024 9:05,organic,0.8934636692974817,compost_materials.jpg,Sunday,February
+2/11/2024 9:12,organic,0.9505664569617424,compost_materials.jpg,Sunday,February
+2/11/2024 9:30,organic,0.9129610421740192,compost_materials.jpg,Sunday,February
+2/11/2024 9:36,organic,0.9656705782368091,garden_waste.jpg,Sunday,February
+2/11/2024 13:16,plastic,0.89719338631206,plastic_containers.jpg,Sunday,February
+2/11/2024 13:43,metal,0.906057708994137,aluminum_cans.jpg,Sunday,February
+2/11/2024 14:15,organic,0.8816683509061485,food_waste.jpg,Sunday,February
+2/11/2024 15:04,batteries,0.9001253947738109,battery_collection.jpg,Sunday,February
+2/11/2024 15:19,glass,0.8721551765031033,broken_glass.jpg,Sunday,February
+2/11/2024 16:49,mixed,0.892196365303829,general_waste.jpg,Sunday,February
+2/11/2024 17:12,organic,0.9339081798696701,garden_waste.jpg,Sunday,February
+2/11/2024 19:00,organic,0.8873291522641465,food_waste.jpg,Sunday,February
+2/11/2024 20:02,glass,0.9487542534158456,glass_jars.jpg,Sunday,February
+2/12/2024 8:29,paper,0.8918750639697594,cardboard_boxes.jpg,Monday,February
+2/12/2024 9:40,clothes,0.9572894658041671,fabric_scraps.jpg,Monday,February
+2/12/2024 10:13,plastic,0.9257693416821019,plastic_waste_pile.jpg,Monday,February
+2/12/2024 10:15,organic,0.8935478451089206,compost_materials.jpg,Monday,February
+2/12/2024 12:11,e-waste,0.8855584811120081,old_electronics.jpg,Monday,February
+2/12/2024 13:45,organic,0.9892382182024604,garden_waste.jpg,Monday,February
+2/12/2024 16:22,mixed,0.8808647476820561,general_waste.jpg,Monday,February
+2/12/2024 16:32,glass,0.8992554964878061,glass_bottles.jpg,Monday,February
+2/12/2024 17:42,plastic,0.8962683332219494,plastic_waste_pile.jpg,Monday,February
+2/12/2024 19:32,paper,0.9387351398761493,paper_waste.jpg,Monday,February
+2/12/2024 20:04,e-waste,0.9646882860307682,electronic_waste.jpg,Monday,February
+2/12/2024 20:09,paper,0.8751928787226982,newspaper_stack.jpg,Monday,February
+2/13/2024 10:35,clothes,0.9753257769387301,old_clothes.jpg,Tuesday,February
+2/13/2024 11:36,e-waste,0.9860283072827367,electronic_waste.jpg,Tuesday,February
+2/13/2024 11:48,plastic,0.9033600476194972,plastic_containers.jpg,Tuesday,February
+2/13/2024 14:21,plastic,0.9423117080263128,plastic_bottle_recycling.jpg,Tuesday,February
+2/13/2024 14:38,glass,0.9615979283470695,broken_glass.jpg,Tuesday,February
+2/13/2024 15:56,batteries,0.9071182774874973,battery_waste.jpg,Tuesday,February
+2/13/2024 18:33,metal,0.8568618044543986,tin_containers.jpg,Tuesday,February
+2/14/2024 8:11,metal,0.9366275480964916,aluminum_cans.jpg,Wednesday,February
+2/14/2024 9:37,organic,0.9187901681319308,food_waste.jpg,Wednesday,February
+2/14/2024 10:00,clothes,0.8962149450928789,fabric_scraps.jpg,Wednesday,February
+2/14/2024 10:43,glass,0.9951637151042418,glass_bottles.jpg,Wednesday,February
+2/14/2024 12:27,metal,0.9919471585960903,metal_scraps.jpg,Wednesday,February
+2/14/2024 13:05,paper,0.9953971473784956,paper_waste.jpg,Wednesday,February
+2/14/2024 15:57,metal,0.9373523066453455,metal_scraps.jpg,Wednesday,February
+2/14/2024 18:34,plastic,0.8525207893740504,plastic_containers.jpg,Wednesday,February
+2/15/2024 11:34,mixed,0.875852200523687,general_waste.jpg,Thursday,February
+2/15/2024 13:37,organic,0.9755142889314611,compost_materials.jpg,Thursday,February
+2/15/2024 16:54,paper,0.9280009004906877,paper_waste.jpg,Thursday,February
+2/15/2024 17:34,paper,0.9991664436968906,newspaper_stack.jpg,Thursday,February
+2/15/2024 19:30,organic,0.8750003104069894,food_waste.jpg,Thursday,February
+2/16/2024 9:24,plastic,0.9505329842194853,plastic_bottle_recycling.jpg,Friday,February
+2/16/2024 11:36,mixed,0.9810605119583895,general_waste.jpg,Friday,February
+2/16/2024 12:36,plastic,0.9398608531356489,plastic_waste_pile.jpg,Friday,February
+2/16/2024 12:39,organic,0.9898271712023881,garden_waste.jpg,Friday,February
+2/16/2024 16:06,paper,0.9536250139159921,cardboard_boxes.jpg,Friday,February
+2/16/2024 20:54,e-waste,0.968480496,electronic_waste.jpg,Friday,February
+2/17/2024 8:30,metal,0.9439748246766622,tin_containers.jpg,Saturday,February
+2/17/2024 9:17,metal,0.930071613877891,tin_containers.jpg,Saturday,February
+2/17/2024 9:37,organic,0.882023796224496,garden_waste.jpg,Saturday,February
+2/17/2024 11:27,paper,0.9418011611019044,newspaper_stack.jpg,Saturday,February
+2/17/2024 13:10,mixed,0.8812911181599165,misc_garbage.jpg,Saturday,February
+2/17/2024 13:50,paper,0.9866683336009324,cardboard_boxes.jpg,Saturday,February
+2/17/2024 15:13,mixed,0.9554181090446217,mixed_waste.jpg,Saturday,February
+2/17/2024 15:26,plastic,0.8885398573601297,plastic_waste_pile.jpg,Saturday,February
+2/17/2024 15:50,mixed,0.9981271978477088,mixed_waste.jpg,Saturday,February
+2/17/2024 16:48,glass,0.8864347759934397,glass_bottles.jpg,Saturday,February
+2/17/2024 18:52,metal,0.8596061628929426,tin_containers.jpg,Saturday,February
+2/17/2024 19:16,plastic,0.8516714510709695,plastic_waste_pile.jpg,Saturday,February
+2/17/2024 20:10,glass,0.8951997203881612,glass_jars.jpg,Saturday,February
+2/17/2024 20:46,plastic,0.9501707510183552,plastic_containers.jpg,Saturday,February
+2/18/2024 8:47,glass,0.9607336268870819,broken_glass.jpg,Sunday,February
+2/18/2024 9:33,paper,0.882325430542566,cardboard_boxes.jpg,Sunday,February
+2/18/2024 9:36,paper,0.9687764287330463,paper_waste.jpg,Sunday,February
+2/18/2024 11:05,glass,0.8826055181590957,glass_bottles.jpg,Sunday,February
+2/18/2024 11:15,paper,0.8844542797065532,paper_waste.jpg,Sunday,February
+2/18/2024 11:20,paper,0.9641111374719279,paper_waste.jpg,Sunday,February
+2/18/2024 13:11,mixed,0.9703098624082404,misc_garbage.jpg,Sunday,February
+2/18/2024 13:24,e-waste,0.8991483023861458,electronic_waste.jpg,Sunday,February
+2/18/2024 14:17,plastic,0.9950064430933985,plastic_containers.jpg,Sunday,February
+2/18/2024 14:55,glass,0.9729564712966495,broken_glass.jpg,Sunday,February
+2/18/2024 15:50,plastic,0.8943912414621521,plastic_waste_pile.jpg,Sunday,February
+2/18/2024 16:51,mixed,0.9225684730178627,misc_garbage.jpg,Sunday,February
+2/18/2024 18:22,glass,0.9299589721993812,glass_jars.jpg,Sunday,February
+2/18/2024 19:12,paper,0.9604794180544274,paper_waste.jpg,Sunday,February
+2/18/2024 20:59,metal,0.9126704945967623,aluminum_cans.jpg,Sunday,February
+2/19/2024 10:07,plastic,0.9774917230610335,plastic_bottle_recycling.jpg,Monday,February
+2/19/2024 14:26,plastic,0.8754528928563433,plastic_bottle_recycling.jpg,Monday,February
+2/19/2024 16:31,paper,0.9849216356443313,newspaper_stack.jpg,Monday,February
+2/19/2024 16:47,mixed,0.9710140955514299,general_waste.jpg,Monday,February
+2/19/2024 18:07,glass,0.8640180613566525,glass_jars.jpg,Monday,February
+2/19/2024 19:12,glass,0.9754446768907437,glass_bottles.jpg,Monday,February
+2/19/2024 20:08,organic,0.8882918987457611,food_waste.jpg,Monday,February
+2/19/2024 20:08,mixed,0.8817954779011776,mixed_waste.jpg,Monday,February
+2/19/2024 20:37,plastic,0.9441540890522245,plastic_waste_pile.jpg,Monday,February
+2/19/2024 20:40,metal,0.8777014172289536,tin_containers.jpg,Monday,February
+2/20/2024 12:32,organic,0.9116701595389946,compost_materials.jpg,Tuesday,February
+2/20/2024 13:27,mixed,0.9781259712243111,mixed_waste.jpg,Tuesday,February
+2/20/2024 13:44,organic,0.8768449721474006,garden_waste.jpg,Tuesday,February
+2/20/2024 15:02,plastic,0.9180581820936614,plastic_waste_pile.jpg,Tuesday,February
+2/20/2024 18:41,plastic,0.9243293085777637,plastic_containers.jpg,Tuesday,February
+2/21/2024 9:05,organic,0.8862283151856487,food_waste.jpg,Wednesday,February
+2/21/2024 9:38,organic,0.9679325429760893,food_waste.jpg,Wednesday,February
+2/21/2024 11:30,batteries,0.9062302441670298,battery_collection.jpg,Wednesday,February
+2/21/2024 12:11,organic,0.954006618031402,food_waste.jpg,Wednesday,February
+2/21/2024 14:50,clothes,0.9655793502144299,old_clothes.jpg,Wednesday,February
+2/21/2024 17:32,clothes,0.8762895682426675,fabric_scraps.jpg,Wednesday,February
+2/21/2024 19:29,paper,0.8874192224551319,newspaper_stack.jpg,Wednesday,February
+2/22/2024 8:42,organic,0.9610955811117267,food_waste.jpg,Thursday,February
+2/22/2024 17:23,plastic,0.9891398639143824,plastic_waste_pile.jpg,Thursday,February
+2/22/2024 17:40,e-waste,0.9683924641073682,old_electronics.jpg,Thursday,February
+2/22/2024 18:21,clothes,0.8596403369524497,old_clothes.jpg,Thursday,February
+2/22/2024 19:41,plastic,0.979569538310634,plastic_containers.jpg,Thursday,February
+2/23/2024 8:26,paper,0.9663480315469368,cardboard_boxes.jpg,Friday,February
+2/23/2024 9:47,plastic,0.9550622404272026,plastic_bottle_recycling.jpg,Friday,February
+2/23/2024 10:23,paper,0.9647828752578387,cardboard_boxes.jpg,Friday,February
+2/23/2024 11:52,plastic,0.875851684289214,plastic_waste_pile.jpg,Friday,February
+2/23/2024 11:59,paper,0.8809080804856935,cardboard_boxes.jpg,Friday,February
+2/23/2024 12:55,e-waste,0.9075518684541264,electronic_waste.jpg,Friday,February
+2/23/2024 13:26,paper,0.967649639741691,paper_waste.jpg,Friday,February
+2/23/2024 13:40,plastic,0.928206394184937,plastic_bottle_recycling.jpg,Friday,February
+2/23/2024 15:33,paper,0.9294216512581128,paper_waste.jpg,Friday,February
+2/23/2024 15:39,e-waste,0.9028325038133445,computer_parts.jpg,Friday,February
+2/23/2024 16:32,plastic,0.934071553102918,plastic_waste_pile.jpg,Friday,February
+2/23/2024 17:33,glass,0.9207665407315673,broken_glass.jpg,Friday,February
+2/23/2024 17:38,e-waste,0.9225385229232914,electronic_waste.jpg,Friday,February
+2/23/2024 20:07,plastic,0.949781129008955,plastic_waste_pile.jpg,Friday,February
+2/23/2024 20:56,plastic,0.9745479094825775,plastic_waste_pile.jpg,Friday,February
+2/24/2024 12:50,plastic,0.9684962739500925,plastic_containers.jpg,Saturday,February
+2/24/2024 13:58,metal,0.9053071120823558,metal_scraps.jpg,Saturday,February
+2/24/2024 14:38,glass,0.9836671345013334,broken_glass.jpg,Saturday,February
+2/24/2024 15:02,metal,0.9535357155554264,metal_scraps.jpg,Saturday,February
+2/24/2024 18:40,paper,0.862560258781811,newspaper_stack.jpg,Saturday,February
+2/24/2024 20:08,plastic,0.9556721716142176,plastic_waste_pile.jpg,Saturday,February
+2/25/2024 8:35,e-waste,0.860197440064833,old_electronics.jpg,Sunday,February
+2/25/2024 8:35,paper,0.8710407150221294,newspaper_stack.jpg,Sunday,February
+2/25/2024 8:37,organic,0.8594783606323646,food_waste.jpg,Sunday,February
+2/25/2024 8:50,organic,0.897222835781262,food_waste.jpg,Sunday,February
+2/25/2024 8:59,e-waste,0.957482466326475,computer_parts.jpg,Sunday,February
+2/25/2024 11:29,batteries,0.8700492192165167,battery_waste.jpg,Sunday,February
+2/25/2024 15:27,glass,0.9870423146878369,glass_bottles.jpg,Sunday,February
+2/25/2024 16:03,metal,0.8785692656288786,aluminum_cans.jpg,Sunday,February
+2/25/2024 16:40,e-waste,0.970063680054883,computer_parts.jpg,Sunday,February
+2/25/2024 18:04,e-waste,0.8793429162660774,old_electronics.jpg,Sunday,February
+2/25/2024 18:45,organic,0.9626152194049766,compost_materials.jpg,Sunday,February
+2/25/2024 19:04,mixed,0.9250905809191874,misc_garbage.jpg,Sunday,February
+2/25/2024 20:42,clothes,0.881890242730597,old_clothes.jpg,Sunday,February
+2/26/2024 8:21,e-waste,0.9041782624483543,old_electronics.jpg,Monday,February
+2/26/2024 8:40,plastic,0.8779404634120035,plastic_containers.jpg,Monday,February
+2/26/2024 11:35,glass,0.8907407645921641,broken_glass.jpg,Monday,February
+2/26/2024 12:01,organic,0.9510958148467106,food_waste.jpg,Monday,February
+2/26/2024 13:58,plastic,0.9418357648759392,plastic_waste_pile.jpg,Monday,February
+2/26/2024 14:23,paper,0.8907414751611863,cardboard_boxes.jpg,Monday,February
+2/26/2024 17:23,metal,0.9695237900232666,aluminum_cans.jpg,Monday,February
+2/26/2024 19:21,mixed,0.9415356736670489,general_waste.jpg,Monday,February
+2/26/2024 19:35,paper,0.8547491599951477,cardboard_boxes.jpg,Monday,February
+2/26/2024 20:06,organic,0.8944324639792095,compost_materials.jpg,Monday,February
+2/27/2024 8:49,e-waste,0.8512748226228012,old_electronics.jpg,Tuesday,February
+2/27/2024 9:28,paper,0.884712051386377,newspaper_stack.jpg,Tuesday,February
+2/27/2024 10:51,e-waste,0.9396892690778531,computer_parts.jpg,Tuesday,February
+2/27/2024 11:52,e-waste,0.9755076555525343,computer_parts.jpg,Tuesday,February
+2/27/2024 13:40,batteries,0.9630761362817046,battery_collection.jpg,Tuesday,February
+2/27/2024 14:16,clothes,0.9459958736532593,old_clothes.jpg,Tuesday,February
+2/27/2024 17:03,batteries,0.9662251250984255,battery_collection.jpg,Tuesday,February
+2/27/2024 17:13,plastic,0.9350717181921678,plastic_bottle_recycling.jpg,Tuesday,February
+2/27/2024 17:57,plastic,0.8794477122748748,plastic_bottle_recycling.jpg,Tuesday,February
+2/27/2024 19:08,organic,0.8674449785529007,compost_materials.jpg,Tuesday,February
+2/28/2024 8:34,e-waste,0.9128398643521672,old_electronics.jpg,Wednesday,February
+2/28/2024 10:27,mixed,0.9227301473296549,general_waste.jpg,Wednesday,February
+2/28/2024 11:24,glass,0.9347794678297562,glass_jars.jpg,Wednesday,February
+2/28/2024 11:27,e-waste,0.9202733563785211,electronic_waste.jpg,Wednesday,February
+2/28/2024 13:57,organic,0.8980534473367332,food_waste.jpg,Wednesday,February
+2/28/2024 15:48,paper,0.9452542743004909,cardboard_boxes.jpg,Wednesday,February
+2/28/2024 16:20,metal,0.9442244438521359,metal_scraps.jpg,Wednesday,February
+2/28/2024 17:36,mixed,0.9062689956120363,general_waste.jpg,Wednesday,February
+2/28/2024 18:49,metal,0.9419431559153224,tin_containers.jpg,Wednesday,February
+2/28/2024 19:23,paper,0.9490165735291591,paper_waste.jpg,Wednesday,February
+2/29/2024 9:38,plastic,0.954967980806854,plastic_bottle_recycling.jpg,Thursday,February
+2/29/2024 10:01,mixed,0.9400826435714319,misc_garbage.jpg,Thursday,February
+2/29/2024 11:11,plastic,0.953639758269537,plastic_waste_pile.jpg,Thursday,February
+2/29/2024 12:19,batteries,0.9111919746183949,battery_waste.jpg,Thursday,February
+2/29/2024 12:20,mixed,0.8915452697157005,mixed_waste.jpg,Thursday,February
+2/29/2024 13:00,clothes,0.8758368052317209,old_clothes.jpg,Thursday,February
+2/29/2024 13:11,glass,0.9587655669847133,broken_glass.jpg,Thursday,February
+2/29/2024 13:48,e-waste,0.9566435932474034,computer_parts.jpg,Thursday,February
+2/29/2024 15:58,glass,0.952454523588979,glass_bottles.jpg,Thursday,February
+2/29/2024 16:03,paper,0.9423909685726489,cardboard_boxes.jpg,Thursday,February
+2/29/2024 16:04,plastic,0.937097779774511,plastic_containers.jpg,Thursday,February
+2/29/2024 16:20,paper,0.9436225380617193,paper_waste.jpg,Thursday,February
+2/29/2024 18:30,plastic,0.8830031634301078,plastic_waste_pile.jpg,Thursday,February
+2/29/2024 19:01,paper,0.8557253760321099,cardboard_boxes.jpg,Thursday,February
+2/29/2024 19:35,clothes,0.9278652071393576,textile_waste.jpg,Thursday,February
+3/1/2024 9:33,e-waste,0.9740530341491895,computer_parts.jpg,Friday,March
+3/1/2024 11:00,metal,0.9455530934584958,metal_scraps.jpg,Friday,March
+3/1/2024 11:05,clothes,0.8842725798619299,fabric_scraps.jpg,Friday,March
+3/1/2024 15:36,clothes,0.9712881009486443,old_clothes.jpg,Friday,March
+3/1/2024 18:09,e-waste,0.8698311085138427,old_electronics.jpg,Friday,March
+3/1/2024 19:41,clothes,0.9057551536060842,old_clothes.jpg,Friday,March
+3/1/2024 20:12,plastic,0.9646890319887764,plastic_waste_pile.jpg,Friday,March
+3/1/2024 20:27,glass,0.9572875372313282,glass_jars.jpg,Friday,March
+3/2/2024 10:52,organic,0.9511090000862591,compost_materials.jpg,Saturday,March
+3/2/2024 13:42,organic,0.9697534269477485,compost_materials.jpg,Saturday,March
+3/2/2024 18:49,organic,0.9355907371637407,food_waste.jpg,Saturday,March
+3/2/2024 19:38,organic,0.8629108035861696,food_waste.jpg,Saturday,March
+3/2/2024 20:23,mixed,0.9270459219809035,misc_garbage.jpg,Saturday,March
+3/3/2024 9:34,metal,0.8980154769265553,tin_containers.jpg,Sunday,March
+3/3/2024 10:11,clothes,0.909111611545145,fabric_scraps.jpg,Sunday,March
+3/3/2024 10:59,clothes,0.9807389107567377,old_clothes.jpg,Sunday,March
+3/3/2024 11:47,mixed,0.8906969090678518,misc_garbage.jpg,Sunday,March
+3/3/2024 13:56,clothes,0.8710178590025165,fabric_scraps.jpg,Sunday,March
+3/3/2024 14:09,plastic,0.9233155774372881,plastic_bottle_recycling.jpg,Sunday,March
+3/3/2024 14:42,mixed,0.9036193228770374,mixed_waste.jpg,Sunday,March
+3/3/2024 15:22,plastic,0.9508638844244564,plastic_waste_pile.jpg,Sunday,March
+3/3/2024 15:46,clothes,0.9004829945906964,textile_waste.jpg,Sunday,March
+3/3/2024 15:50,clothes,0.9803148299315111,textile_waste.jpg,Sunday,March
+3/3/2024 16:11,batteries,0.8797859538617118,battery_collection.jpg,Sunday,March
+3/3/2024 17:32,clothes,0.9505819710475627,old_clothes.jpg,Sunday,March
+3/3/2024 17:42,mixed,0.9949722936501546,general_waste.jpg,Sunday,March
+3/3/2024 19:04,e-waste,0.8895252663019664,electronic_waste.jpg,Sunday,March
+3/3/2024 19:36,glass,0.9612474157434754,glass_bottles.jpg,Sunday,March
+3/4/2024 10:06,batteries,0.9214575655013885,battery_waste.jpg,Monday,March
+3/4/2024 11:06,plastic,0.951991300943726,plastic_waste_pile.jpg,Monday,March
+3/4/2024 14:06,metal,0.969333319184413,tin_containers.jpg,Monday,March
+3/4/2024 14:21,metal,0.9326983078100457,aluminum_cans.jpg,Monday,March
+3/4/2024 17:18,paper,0.9091636404791501,cardboard_boxes.jpg,Monday,March
+3/4/2024 19:17,plastic,0.9560215930155097,plastic_waste_pile.jpg,Monday,March
+3/5/2024 8:30,clothes,0.9613372082249091,fabric_scraps.jpg,Tuesday,March
+3/5/2024 8:43,mixed,0.8846979166120936,mixed_waste.jpg,Tuesday,March
+3/5/2024 8:45,organic,0.8617281512384724,food_waste.jpg,Tuesday,March
+3/5/2024 9:03,metal,0.9386683560435357,tin_containers.jpg,Tuesday,March
+3/5/2024 10:40,plastic,0.8986599904463364,plastic_waste_pile.jpg,Tuesday,March
+3/5/2024 11:58,clothes,0.9354597237894688,fabric_scraps.jpg,Tuesday,March
+3/5/2024 12:46,organic,0.918833242756555,garden_waste.jpg,Tuesday,March
+3/5/2024 14:53,plastic,0.9808791650356755,plastic_waste_pile.jpg,Tuesday,March
+3/5/2024 15:18,organic,0.9914743549075883,food_waste.jpg,Tuesday,March
+3/5/2024 15:44,organic,0.97021740614837,compost_materials.jpg,Tuesday,March
+3/5/2024 16:12,plastic,0.970477520874019,plastic_waste_pile.jpg,Tuesday,March
+3/5/2024 17:28,clothes,0.8784686267613985,old_clothes.jpg,Tuesday,March
+3/5/2024 20:57,organic,0.9787871529211993,compost_materials.jpg,Tuesday,March
+3/6/2024 8:48,e-waste,0.8790143494211751,electronic_waste.jpg,Wednesday,March
+3/6/2024 8:51,clothes,0.8671500630457089,textile_waste.jpg,Wednesday,March
+3/6/2024 9:24,paper,0.8734549044270798,paper_waste.jpg,Wednesday,March
+3/6/2024 10:51,metal,0.9464131667287512,metal_scraps.jpg,Wednesday,March
+3/6/2024 11:38,e-waste,0.9024414438682368,electronic_waste.jpg,Wednesday,March
+3/6/2024 12:23,organic,0.994073731041546,garden_waste.jpg,Wednesday,March
+3/6/2024 12:35,plastic,0.9160411974560443,plastic_bottle_recycling.jpg,Wednesday,March
+3/6/2024 12:48,organic,0.911087878850188,food_waste.jpg,Wednesday,March
+3/6/2024 13:17,paper,0.9403866376827195,newspaper_stack.jpg,Wednesday,March
+3/6/2024 13:35,clothes,0.934547773697764,old_clothes.jpg,Wednesday,March
+3/6/2024 15:59,glass,0.9512561188889822,glass_bottles.jpg,Wednesday,March
+3/6/2024 20:01,plastic,0.9261225913221134,plastic_containers.jpg,Wednesday,March
+3/6/2024 20:37,metal,0.9284770967545218,metal_scraps.jpg,Wednesday,March
+3/6/2024 20:39,clothes,0.8568199488503357,old_clothes.jpg,Wednesday,March
+3/7/2024 8:10,clothes,0.9257228261252204,old_clothes.jpg,Thursday,March
+3/7/2024 8:55,glass,0.9391670231678205,glass_bottles.jpg,Thursday,March
+3/7/2024 12:20,organic,0.8922622185666331,compost_materials.jpg,Thursday,March
+3/7/2024 13:28,clothes,0.9063619841663051,old_clothes.jpg,Thursday,March
+3/7/2024 13:49,clothes,0.8765721815194558,fabric_scraps.jpg,Thursday,March
+3/7/2024 14:09,metal,0.9138549700598695,aluminum_cans.jpg,Thursday,March
+3/7/2024 16:01,clothes,0.9515736360018164,fabric_scraps.jpg,Thursday,March
+3/7/2024 16:46,plastic,0.9169620217411216,plastic_waste_pile.jpg,Thursday,March
+3/7/2024 16:51,paper,0.9385094890828609,newspaper_stack.jpg,Thursday,March
+3/7/2024 17:03,organic,0.9633595410545606,compost_materials.jpg,Thursday,March
+3/7/2024 18:00,organic,0.8723574301599085,food_waste.jpg,Thursday,March
+3/7/2024 19:52,paper,0.9603259445160731,paper_waste.jpg,Thursday,March
+3/8/2024 10:57,glass,0.9499645537768248,glass_bottles.jpg,Friday,March
+3/8/2024 11:29,plastic,0.9671565813396158,plastic_containers.jpg,Friday,March
+3/8/2024 12:12,plastic,0.8920496606741576,plastic_waste_pile.jpg,Friday,March
+3/8/2024 13:49,paper,0.8828459970090278,newspaper_stack.jpg,Friday,March
+3/8/2024 14:07,metal,0.8843162460318424,tin_containers.jpg,Friday,March
+3/8/2024 14:55,glass,0.9081992966462128,broken_glass.jpg,Friday,March
+3/8/2024 15:04,paper,0.9485799390527846,cardboard_boxes.jpg,Friday,March
+3/8/2024 19:27,glass,0.8655050052750619,glass_bottles.jpg,Friday,March
+3/8/2024 20:19,plastic,0.8915733456923474,plastic_containers.jpg,Friday,March
+3/9/2024 9:05,mixed,0.9066795732519103,misc_garbage.jpg,Saturday,March
+3/9/2024 10:39,metal,0.9039399178353522,aluminum_cans.jpg,Saturday,March
+3/9/2024 10:43,metal,0.9393835233065417,tin_containers.jpg,Saturday,March
+3/9/2024 13:31,mixed,0.942606276854384,misc_garbage.jpg,Saturday,March
+3/9/2024 14:15,metal,0.8743678943479996,aluminum_cans.jpg,Saturday,March
+3/9/2024 14:45,paper,0.8945948840923674,newspaper_stack.jpg,Saturday,March
+3/9/2024 18:39,plastic,0.9135454857532646,plastic_containers.jpg,Saturday,March
+3/9/2024 19:19,paper,0.9067882035625132,paper_waste.jpg,Saturday,March
+3/9/2024 19:45,mixed,0.9053376454961416,general_waste.jpg,Saturday,March
+3/10/2024 9:12,paper,0.9727070802146718,paper_waste.jpg,Sunday,March
+3/10/2024 10:38,clothes,0.9563125000304187,fabric_scraps.jpg,Sunday,March
+3/10/2024 12:39,mixed,0.894860823566297,general_waste.jpg,Sunday,March
+3/10/2024 13:05,glass,0.9428263851851524,glass_bottles.jpg,Sunday,March
+3/10/2024 13:39,organic,0.9953435449901077,compost_materials.jpg,Sunday,March
+3/10/2024 14:27,plastic,0.8866188063102726,plastic_waste_pile.jpg,Sunday,March
+3/10/2024 17:42,plastic,0.9123072333236673,plastic_bottle_recycling.jpg,Sunday,March
+3/10/2024 18:28,plastic,0.9316834731353152,plastic_waste_pile.jpg,Sunday,March
+3/10/2024 19:00,clothes,0.8933126595467972,textile_waste.jpg,Sunday,March
+3/10/2024 20:05,paper,0.9168062210820516,cardboard_boxes.jpg,Sunday,March
+3/11/2024 9:57,clothes,0.9425716395708043,textile_waste.jpg,Monday,March
+3/11/2024 10:32,organic,0.970793009237486,compost_materials.jpg,Monday,March
+3/11/2024 11:08,paper,0.8941906751531201,cardboard_boxes.jpg,Monday,March
+3/11/2024 12:06,organic,0.8819591139581935,garden_waste.jpg,Monday,March
+3/11/2024 12:22,metal,0.9604802679869858,aluminum_cans.jpg,Monday,March
+3/11/2024 13:28,organic,0.9254897460638746,compost_materials.jpg,Monday,March
+3/11/2024 16:21,e-waste,0.8962105701947988,electronic_waste.jpg,Monday,March
+3/11/2024 18:26,clothes,0.8861460042986262,textile_waste.jpg,Monday,March
+3/11/2024 18:31,paper,0.8570125761217511,newspaper_stack.jpg,Monday,March
+3/11/2024 18:54,metal,0.8540634492910452,aluminum_cans.jpg,Monday,March
+3/11/2024 19:16,paper,0.8932168337098373,newspaper_stack.jpg,Monday,March
+3/11/2024 20:34,plastic,0.9701010877136181,plastic_containers.jpg,Monday,March
+3/11/2024 20:42,glass,0.9491579698720506,glass_jars.jpg,Monday,March
+3/12/2024 8:31,paper,0.9210557100880735,cardboard_boxes.jpg,Tuesday,March
+3/12/2024 10:07,plastic,0.9269991849651317,plastic_containers.jpg,Tuesday,March
+3/12/2024 11:02,e-waste,0.9645538909723996,electronic_waste.jpg,Tuesday,March
+3/12/2024 11:31,batteries,0.8815321358560069,battery_collection.jpg,Tuesday,March
+3/12/2024 12:19,plastic,0.9339999240241643,plastic_containers.jpg,Tuesday,March
+3/12/2024 13:35,paper,0.8832341034017558,paper_waste.jpg,Tuesday,March
+3/12/2024 17:30,plastic,0.9262199884680766,plastic_waste_pile.jpg,Tuesday,March
+3/12/2024 18:14,clothes,0.9390152988407143,old_clothes.jpg,Tuesday,March
+3/12/2024 18:53,mixed,0.8742858106313087,general_waste.jpg,Tuesday,March
+3/13/2024 8:57,paper,0.9312784242287375,cardboard_boxes.jpg,Wednesday,March
+3/13/2024 9:05,glass,0.9318572152171235,broken_glass.jpg,Wednesday,March
+3/13/2024 10:46,plastic,0.8876566992756133,plastic_waste_pile.jpg,Wednesday,March
+3/13/2024 11:59,metal,0.9551407445643908,metal_scraps.jpg,Wednesday,March
+3/13/2024 13:28,metal,0.9475431280705742,aluminum_cans.jpg,Wednesday,March
+3/13/2024 13:54,clothes,0.8843068613421107,fabric_scraps.jpg,Wednesday,March
+3/13/2024 14:31,plastic,0.941854218540593,plastic_containers.jpg,Wednesday,March
+3/13/2024 14:34,batteries,0.9640533823194034,battery_waste.jpg,Wednesday,March
+3/13/2024 15:37,paper,0.9472372465872707,cardboard_boxes.jpg,Wednesday,March
+3/13/2024 18:28,organic,0.9264935229795984,garden_waste.jpg,Wednesday,March
+3/13/2024 19:38,metal,0.8503222847880696,aluminum_cans.jpg,Wednesday,March
+3/13/2024 20:03,organic,0.9223932661769034,garden_waste.jpg,Wednesday,March
+3/13/2024 20:43,organic,0.9050996122839532,compost_materials.jpg,Wednesday,March
+3/14/2024 11:37,paper,0.8898133036150132,cardboard_boxes.jpg,Thursday,March
+3/14/2024 12:20,glass,0.901968541087652,broken_glass.jpg,Thursday,March
+3/14/2024 13:10,batteries,0.9632334489757325,battery_waste.jpg,Thursday,March
+3/14/2024 13:28,metal,0.8867270706844845,tin_containers.jpg,Thursday,March
+3/14/2024 13:38,paper,0.910805234879233,newspaper_stack.jpg,Thursday,March
+3/14/2024 16:01,plastic,0.9555006240032622,plastic_containers.jpg,Thursday,March
+3/14/2024 16:34,mixed,0.9624737291636594,general_waste.jpg,Thursday,March
+3/14/2024 16:35,glass,0.9624931844395147,broken_glass.jpg,Thursday,March
+3/14/2024 16:43,glass,0.9966097455760512,glass_jars.jpg,Thursday,March
+3/14/2024 17:08,plastic,0.9645940970124401,plastic_waste_pile.jpg,Thursday,March
+3/14/2024 17:28,plastic,0.9316137894804575,plastic_waste_pile.jpg,Thursday,March
+3/14/2024 20:16,metal,0.9522446047661169,metal_scraps.jpg,Thursday,March
+3/15/2024 8:13,organic,0.9633693610390321,garden_waste.jpg,Friday,March
+3/15/2024 8:59,organic,0.976540287694713,food_waste.jpg,Friday,March
+3/15/2024 10:54,plastic,0.9136000006521368,plastic_containers.jpg,Friday,March
+3/15/2024 11:51,organic,0.9638523899941901,food_waste.jpg,Friday,March
+3/15/2024 12:29,paper,0.9473721055631323,newspaper_stack.jpg,Friday,March
+3/15/2024 13:10,mixed,0.9354956793774278,misc_garbage.jpg,Friday,March
+3/15/2024 14:21,mixed,0.9777763013849331,general_waste.jpg,Friday,March
+3/15/2024 15:20,e-waste,0.8902719359081983,old_electronics.jpg,Friday,March
+3/15/2024 15:27,clothes,0.9754607409718195,old_clothes.jpg,Friday,March
+3/15/2024 15:41,glass,0.8723935627976115,broken_glass.jpg,Friday,March
+3/15/2024 16:43,plastic,0.9717617564405044,plastic_bottle_recycling.jpg,Friday,March
+3/15/2024 16:43,batteries,0.9048527734320171,battery_collection.jpg,Friday,March
+3/15/2024 16:54,clothes,0.9339701798995583,old_clothes.jpg,Friday,March
+3/15/2024 17:46,clothes,0.9101834917486108,textile_waste.jpg,Friday,March
+3/15/2024 19:43,plastic,0.8842071751027716,plastic_bottle_recycling.jpg,Friday,March
+3/16/2024 8:28,organic,0.8807993710384191,food_waste.jpg,Saturday,March
+3/16/2024 8:29,organic,0.8852076059225654,garden_waste.jpg,Saturday,March
+3/16/2024 9:31,paper,0.9624970727399345,newspaper_stack.jpg,Saturday,March
+3/16/2024 9:52,e-waste,0.919932285989262,computer_parts.jpg,Saturday,March
+3/16/2024 11:29,mixed,0.8724551631501934,mixed_waste.jpg,Saturday,March
+3/16/2024 12:23,plastic,0.9041590413425449,plastic_waste_pile.jpg,Saturday,March
+3/16/2024 15:47,mixed,0.9097659709845429,mixed_waste.jpg,Saturday,March
+3/16/2024 17:59,organic,0.917210729349552,food_waste.jpg,Saturday,March
+3/16/2024 18:05,organic,0.955523096376617,compost_materials.jpg,Saturday,March
+3/16/2024 20:07,mixed,0.9389830722444901,mixed_waste.jpg,Saturday,March
+3/16/2024 20:49,mixed,0.8931435959910272,misc_garbage.jpg,Saturday,March
+3/17/2024 9:53,batteries,0.9135583357919621,battery_waste.jpg,Sunday,March
+3/17/2024 10:20,e-waste,0.9247466164836751,electronic_waste.jpg,Sunday,March
+3/17/2024 10:55,mixed,0.9612297883723369,mixed_waste.jpg,Sunday,March
+3/17/2024 11:08,mixed,0.9155102746292471,misc_garbage.jpg,Sunday,March
+3/17/2024 12:38,organic,0.8757097162683167,compost_materials.jpg,Sunday,March
+3/17/2024 13:07,mixed,0.9904832527650682,mixed_waste.jpg,Sunday,March
+3/17/2024 13:55,mixed,0.9083941145517808,misc_garbage.jpg,Sunday,March
+3/17/2024 15:38,plastic,0.9163421817125591,plastic_waste_pile.jpg,Sunday,March
+3/17/2024 16:10,batteries,0.8848468814678273,used_batteries.jpg,Sunday,March
+3/17/2024 16:14,organic,0.8910122845717873,garden_waste.jpg,Sunday,March
+3/17/2024 16:16,organic,0.988826650134482,food_waste.jpg,Sunday,March
+3/17/2024 19:16,glass,0.9428545779245687,glass_jars.jpg,Sunday,March
+3/17/2024 20:51,clothes,0.8878650224480917,fabric_scraps.jpg,Sunday,March
+3/18/2024 9:11,glass,0.9721806389480689,glass_jars.jpg,Monday,March
+3/18/2024 9:20,paper,0.9922366633941789,cardboard_boxes.jpg,Monday,March
+3/18/2024 9:21,e-waste,0.8986630980012679,old_electronics.jpg,Monday,March
+3/18/2024 9:31,batteries,0.9834242011295393,battery_collection.jpg,Monday,March
+3/18/2024 10:13,glass,0.951177032865216,glass_jars.jpg,Monday,March
+3/18/2024 11:13,organic,0.8703626406070617,garden_waste.jpg,Monday,March
+3/18/2024 12:08,paper,0.9927478459113838,cardboard_boxes.jpg,Monday,March
+3/18/2024 12:44,organic,0.8900049656820835,garden_waste.jpg,Monday,March
+3/18/2024 13:14,organic,0.9881594548579936,food_waste.jpg,Monday,March
+3/18/2024 13:57,glass,0.9404508729957004,glass_jars.jpg,Monday,March
+3/18/2024 14:31,paper,0.9689632934213206,newspaper_stack.jpg,Monday,March
+3/18/2024 16:47,metal,0.9252445851224079,aluminum_cans.jpg,Monday,March
+3/18/2024 17:38,plastic,0.9953163202971657,plastic_containers.jpg,Monday,March
+3/19/2024 11:31,batteries,0.9200920722787245,battery_collection.jpg,Tuesday,March
+3/19/2024 12:58,mixed,0.993746195486598,mixed_waste.jpg,Tuesday,March
+3/19/2024 14:25,paper,0.9510056095542297,newspaper_stack.jpg,Tuesday,March
+3/19/2024 14:39,clothes,0.9019291477415559,old_clothes.jpg,Tuesday,March
+3/19/2024 15:12,organic,0.8837831584315274,garden_waste.jpg,Tuesday,March
+3/19/2024 15:47,paper,0.9883458613643707,paper_waste.jpg,Tuesday,March
+3/19/2024 17:00,glass,0.9557530436263548,glass_jars.jpg,Tuesday,March
+3/19/2024 19:48,batteries,0.8685461674086533,battery_waste.jpg,Tuesday,March
+3/19/2024 19:53,plastic,0.9770529103885156,plastic_containers.jpg,Tuesday,March
+3/19/2024 20:49,plastic,0.9156051600967494,plastic_containers.jpg,Tuesday,March
+3/20/2024 8:10,mixed,0.9214891975055681,general_waste.jpg,Wednesday,March
+3/20/2024 11:44,organic,0.9947568158125359,compost_materials.jpg,Wednesday,March
+3/20/2024 12:50,clothes,0.8721419000052015,old_clothes.jpg,Wednesday,March
+3/20/2024 13:28,organic,0.8729153989100258,food_waste.jpg,Wednesday,March
+3/20/2024 16:28,glass,0.8762015789825808,glass_jars.jpg,Wednesday,March
+3/20/2024 16:35,mixed,0.9913827398292548,misc_garbage.jpg,Wednesday,March
+3/20/2024 18:26,glass,0.8553466662292988,broken_glass.jpg,Wednesday,March
+3/20/2024 19:35,plastic,0.8848112782423269,plastic_bottle_recycling.jpg,Wednesday,March
+3/20/2024 20:56,paper,0.8794523791601887,paper_waste.jpg,Wednesday,March
+3/21/2024 8:52,paper,0.946334512662823,newspaper_stack.jpg,Thursday,March
+3/21/2024 10:26,paper,0.968044656723834,cardboard_boxes.jpg,Thursday,March
+3/21/2024 10:37,plastic,0.9174569607926368,plastic_containers.jpg,Thursday,March
+3/21/2024 11:20,plastic,0.9177429294242818,plastic_containers.jpg,Thursday,March
+3/21/2024 13:02,mixed,0.9171580539303967,mixed_waste.jpg,Thursday,March
+3/21/2024 15:00,mixed,0.9995285643609716,general_waste.jpg,Thursday,March
+3/21/2024 18:37,metal,0.9513460477914503,tin_containers.jpg,Thursday,March
+3/21/2024 18:59,batteries,0.9296411049366691,battery_waste.jpg,Thursday,March
+3/21/2024 19:29,plastic,0.9769758522571969,plastic_waste_pile.jpg,Thursday,March
+3/21/2024 19:30,glass,0.9598576651827899,glass_bottles.jpg,Thursday,March
+3/22/2024 8:49,mixed,0.9538679583418805,misc_garbage.jpg,Friday,March
+3/22/2024 11:16,clothes,0.9608983756184384,textile_waste.jpg,Friday,March
+3/22/2024 11:51,organic,0.9769214856912696,garden_waste.jpg,Friday,March
+3/22/2024 12:01,clothes,0.97330674821757,fabric_scraps.jpg,Friday,March
+3/22/2024 15:07,plastic,0.9276350189986035,plastic_bottle_recycling.jpg,Friday,March
+3/22/2024 15:22,organic,0.9949698108170045,garden_waste.jpg,Friday,March
+3/22/2024 16:53,plastic,0.9000015361432184,plastic_waste_pile.jpg,Friday,March
+3/22/2024 17:32,mixed,0.935670500991499,mixed_waste.jpg,Friday,March
+3/22/2024 18:03,e-waste,0.8869920805169665,old_electronics.jpg,Friday,March
+3/22/2024 18:06,batteries,0.9269816310316465,used_batteries.jpg,Friday,March
+3/22/2024 18:39,organic,0.9306863268649512,garden_waste.jpg,Friday,March
+3/22/2024 20:42,metal,0.8716383631492631,metal_scraps.jpg,Friday,March
+3/23/2024 13:49,e-waste,0.9302321306788239,computer_parts.jpg,Saturday,March
+3/23/2024 14:03,plastic,0.9978063999962308,plastic_containers.jpg,Saturday,March
+3/23/2024 14:32,glass,0.8822932131413411,broken_glass.jpg,Saturday,March
+3/23/2024 16:34,clothes,0.9193748853036334,textile_waste.jpg,Saturday,March
+3/23/2024 16:54,plastic,0.8754684115505877,plastic_containers.jpg,Saturday,March
+3/23/2024 18:49,paper,0.9429754719336694,cardboard_boxes.jpg,Saturday,March
+3/23/2024 19:21,metal,0.9690202902769253,aluminum_cans.jpg,Saturday,March
+3/24/2024 8:03,mixed,0.9680007991408495,mixed_waste.jpg,Sunday,March
+3/24/2024 8:08,clothes,0.8730356429975528,fabric_scraps.jpg,Sunday,March
+3/24/2024 8:08,organic,0.8834111727193549,compost_materials.jpg,Sunday,March
+3/24/2024 9:48,plastic,0.9866566519829199,plastic_containers.jpg,Sunday,March
+3/24/2024 9:59,metal,0.8819202663867888,tin_containers.jpg,Sunday,March
+3/24/2024 11:33,glass,0.91234323578036,broken_glass.jpg,Sunday,March
+3/24/2024 13:57,batteries,0.9293189780836344,used_batteries.jpg,Sunday,March
+3/24/2024 13:59,clothes,0.9938850734598392,textile_waste.jpg,Sunday,March
+3/24/2024 15:07,e-waste,0.950507928377828,old_electronics.jpg,Sunday,March
+3/24/2024 15:13,organic,0.8953365718357855,garden_waste.jpg,Sunday,March
+3/24/2024 15:46,organic,0.8738673089700117,garden_waste.jpg,Sunday,March
+3/24/2024 15:55,plastic,0.8817603547225241,plastic_containers.jpg,Sunday,March
+3/24/2024 16:15,mixed,0.9077913716921808,general_waste.jpg,Sunday,March
+3/25/2024 9:53,paper,0.8922534675960675,paper_waste.jpg,Monday,March
+3/25/2024 11:04,mixed,0.9754680088990371,misc_garbage.jpg,Monday,March
+3/25/2024 12:02,paper,0.9625592356330788,newspaper_stack.jpg,Monday,March
+3/25/2024 12:05,plastic,0.8900486287936755,plastic_waste_pile.jpg,Monday,March
+3/25/2024 12:44,plastic,0.9968883928338783,plastic_bottle_recycling.jpg,Monday,March
+3/25/2024 15:08,glass,0.875203575161112,glass_jars.jpg,Monday,March
+3/25/2024 15:12,e-waste,0.9297317286065443,computer_parts.jpg,Monday,March
+3/25/2024 16:43,glass,0.8962489011781443,glass_bottles.jpg,Monday,March
+3/25/2024 17:45,mixed,0.9296391178982829,general_waste.jpg,Monday,March
+3/25/2024 18:43,plastic,0.8733504337669614,plastic_containers.jpg,Monday,March
+3/25/2024 19:55,plastic,0.8684242495586194,plastic_containers.jpg,Monday,March
+3/25/2024 19:56,paper,0.8796609828068624,cardboard_boxes.jpg,Monday,March
+3/25/2024 20:02,organic,0.8865290270528947,garden_waste.jpg,Monday,March
+3/25/2024 20:15,e-waste,0.8555398719049642,computer_parts.jpg,Monday,March
+3/26/2024 8:23,paper,0.8554026174358891,paper_waste.jpg,Tuesday,March
+3/26/2024 10:16,clothes,0.9632664285018099,textile_waste.jpg,Tuesday,March
+3/26/2024 16:49,mixed,0.948100404858854,general_waste.jpg,Tuesday,March
+3/26/2024 16:49,clothes,0.9103488472068694,fabric_scraps.jpg,Tuesday,March
+3/26/2024 20:12,e-waste,0.939031276356577,electronic_waste.jpg,Tuesday,March
+3/27/2024 9:19,paper,0.8938934989172028,paper_waste.jpg,Wednesday,March
+3/27/2024 9:55,e-waste,0.925683731773006,electronic_waste.jpg,Wednesday,March
+3/27/2024 9:57,paper,0.9344133767524243,cardboard_boxes.jpg,Wednesday,March
+3/27/2024 11:31,plastic,0.890139694268927,plastic_bottle_recycling.jpg,Wednesday,March
+3/27/2024 13:26,organic,0.9388696352479609,garden_waste.jpg,Wednesday,March
+3/27/2024 17:13,organic,0.9584810952729566,compost_materials.jpg,Wednesday,March
+3/27/2024 17:34,e-waste,0.9197404928120224,computer_parts.jpg,Wednesday,March
+3/27/2024 18:01,mixed,0.906079799061132,mixed_waste.jpg,Wednesday,March
+3/27/2024 19:03,metal,0.8732737052351864,aluminum_cans.jpg,Wednesday,March
+3/27/2024 19:44,paper,0.9630653627831331,newspaper_stack.jpg,Wednesday,March
+3/27/2024 20:52,clothes,0.8781516438357198,old_clothes.jpg,Wednesday,March
+3/28/2024 11:18,plastic,0.9169109722900819,plastic_containers.jpg,Thursday,March
+3/28/2024 12:53,glass,0.9576530425922145,broken_glass.jpg,Thursday,March
+3/28/2024 16:31,batteries,0.9855551270454337,battery_collection.jpg,Thursday,March
+3/28/2024 17:04,organic,0.9810151594605886,garden_waste.jpg,Thursday,March
+3/28/2024 17:31,plastic,0.9128203665822644,plastic_containers.jpg,Thursday,March
+3/28/2024 18:46,paper,0.8569321410118222,paper_waste.jpg,Thursday,March
+3/28/2024 19:13,metal,0.93912413053163,tin_containers.jpg,Thursday,March
+3/28/2024 19:42,batteries,0.891506173957223,battery_collection.jpg,Thursday,March
+3/28/2024 20:53,paper,0.9397788595641419,cardboard_boxes.jpg,Thursday,March
+3/29/2024 11:40,paper,0.9691872148243175,cardboard_boxes.jpg,Friday,March
+3/29/2024 11:48,paper,0.902264845669072,cardboard_boxes.jpg,Friday,March
+3/29/2024 13:24,e-waste,0.9819361663534926,electronic_waste.jpg,Friday,March
+3/29/2024 13:46,paper,0.9680157061388094,newspaper_stack.jpg,Friday,March
+3/29/2024 13:57,organic,0.9763313422665088,garden_waste.jpg,Friday,March
+3/29/2024 14:52,paper,0.9013767134682072,cardboard_boxes.jpg,Friday,March
+3/29/2024 15:13,plastic,0.9362093821746318,plastic_waste_pile.jpg,Friday,March
+3/29/2024 16:28,clothes,0.9825934420531993,old_clothes.jpg,Friday,March
+3/29/2024 19:01,paper,0.9092161295611941,newspaper_stack.jpg,Friday,March
+3/29/2024 19:14,plastic,0.9790423227111476,plastic_containers.jpg,Friday,March
+3/29/2024 19:40,clothes,0.8831457115091774,fabric_scraps.jpg,Friday,March
+3/29/2024 19:46,e-waste,0.9168969822862042,computer_parts.jpg,Friday,March
+3/29/2024 20:07,plastic,0.8937035825184259,plastic_bottle_recycling.jpg,Friday,March
+3/29/2024 20:49,plastic,0.9312790269998503,plastic_bottle_recycling.jpg,Friday,March
+3/30/2024 8:32,e-waste,0.8776213013189303,electronic_waste.jpg,Saturday,March
+3/30/2024 9:50,organic,0.8885516281423044,compost_materials.jpg,Saturday,March
+3/30/2024 11:17,plastic,0.9251589771586016,plastic_bottle_recycling.jpg,Saturday,March
+3/30/2024 11:44,plastic,0.9028002643532924,plastic_bottle_recycling.jpg,Saturday,March
+3/30/2024 16:25,glass,0.8701558878328834,glass_bottles.jpg,Saturday,March
+3/30/2024 16:42,paper,0.9481319782792202,cardboard_boxes.jpg,Saturday,March
+3/30/2024 17:09,paper,0.9841144075844179,paper_waste.jpg,Saturday,March
+3/30/2024 17:41,plastic,0.8710443440695563,plastic_waste_pile.jpg,Saturday,March
+3/31/2024 8:21,mixed,0.9455530513513396,misc_garbage.jpg,Sunday,March
+3/31/2024 9:39,paper,0.979349969334515,cardboard_boxes.jpg,Sunday,March
+3/31/2024 11:34,e-waste,0.8990404166892402,computer_parts.jpg,Sunday,March
+3/31/2024 14:26,plastic,0.9227062534358377,plastic_containers.jpg,Sunday,March
+3/31/2024 14:27,mixed,0.9032475294259115,mixed_waste.jpg,Sunday,March
+3/31/2024 16:23,paper,0.9661403177353998,cardboard_boxes.jpg,Sunday,March
+4/1/2024 8:00,paper,0.939582309864366,newspaper_stack.jpg,Monday,April
+4/1/2024 8:11,glass,0.9581086199037854,glass_bottles.jpg,Monday,April
+4/1/2024 8:21,organic,0.9562319558816725,food_waste.jpg,Monday,April
+4/1/2024 9:14,organic,0.9024490975447265,compost_materials.jpg,Monday,April
+4/1/2024 9:36,glass,0.9125921583831985,broken_glass.jpg,Monday,April
+4/1/2024 10:00,batteries,0.87745121855951,battery_collection.jpg,Monday,April
+4/1/2024 10:35,plastic,0.9487657478248908,plastic_containers.jpg,Monday,April
+4/1/2024 11:10,plastic,0.8998752902433786,plastic_bottle_recycling.jpg,Monday,April
+4/1/2024 14:10,glass,0.976114198042784,glass_jars.jpg,Monday,April
+4/1/2024 14:15,batteries,0.9218784270107625,battery_waste.jpg,Monday,April
+4/1/2024 16:00,mixed,0.9883907698804013,mixed_waste.jpg,Monday,April
+4/1/2024 17:07,organic,0.8877460276419148,garden_waste.jpg,Monday,April
+4/1/2024 20:04,plastic,0.8998806864089601,plastic_bottle_recycling.jpg,Monday,April
+4/1/2024 20:38,clothes,0.8840254802631378,textile_waste.jpg,Monday,April
+4/1/2024 20:50,mixed,0.854831757431743,mixed_waste.jpg,Monday,April
+4/2/2024 13:09,metal,0.9161509386948735,tin_containers.jpg,Tuesday,April
+4/2/2024 14:18,paper,0.9571830952237309,paper_waste.jpg,Tuesday,April
+4/2/2024 14:31,glass,0.8709069858176849,glass_bottles.jpg,Tuesday,April
+4/2/2024 15:17,clothes,0.9129394217187401,fabric_scraps.jpg,Tuesday,April
+4/2/2024 15:20,organic,0.8773790436609887,garden_waste.jpg,Tuesday,April
+4/3/2024 9:50,clothes,0.8995580390807532,old_clothes.jpg,Wednesday,April
+4/3/2024 10:12,clothes,0.9503479619537865,textile_waste.jpg,Wednesday,April
+4/3/2024 11:54,plastic,0.9230869790830807,plastic_waste_pile.jpg,Wednesday,April
+4/3/2024 13:13,paper,0.8866918353200275,cardboard_boxes.jpg,Wednesday,April
+4/3/2024 13:27,plastic,0.9967140338796102,plastic_bottle_recycling.jpg,Wednesday,April
+4/3/2024 13:52,organic,0.9164625342398374,compost_materials.jpg,Wednesday,April
+4/3/2024 14:06,organic,0.9615636951390993,food_waste.jpg,Wednesday,April
+4/3/2024 14:12,metal,0.8965013747861423,aluminum_cans.jpg,Wednesday,April
+4/3/2024 14:57,plastic,0.8709521644095751,plastic_bottle_recycling.jpg,Wednesday,April
+4/3/2024 17:16,glass,0.9995934757876657,glass_jars.jpg,Wednesday,April
+4/3/2024 17:40,glass,0.9090321052158101,broken_glass.jpg,Wednesday,April
+4/3/2024 19:20,glass,0.8558424506575859,glass_jars.jpg,Wednesday,April
+4/3/2024 19:59,plastic,0.9354410875799083,plastic_bottle_recycling.jpg,Wednesday,April
+4/3/2024 20:25,organic,0.9506972405779169,garden_waste.jpg,Wednesday,April
+4/4/2024 8:01,paper,0.9468441041960822,newspaper_stack.jpg,Thursday,April
+4/4/2024 9:37,paper,0.9986388625680767,cardboard_boxes.jpg,Thursday,April
+4/4/2024 9:39,glass,0.8967826100650668,glass_bottles.jpg,Thursday,April
+4/4/2024 11:04,mixed,0.8759800652830034,misc_garbage.jpg,Thursday,April
+4/4/2024 11:27,e-waste,0.968281551295091,electronic_waste.jpg,Thursday,April
+4/4/2024 11:40,organic,0.8779138893219848,garden_waste.jpg,Thursday,April
+4/4/2024 13:49,paper,0.9352509395975965,cardboard_boxes.jpg,Thursday,April
+4/4/2024 18:56,batteries,0.865053289450111,battery_collection.jpg,Thursday,April
+4/4/2024 20:16,organic,0.9122174351351093,compost_materials.jpg,Thursday,April
+4/4/2024 20:34,plastic,0.9240999079559308,plastic_containers.jpg,Thursday,April
+4/4/2024 20:56,metal,0.9365967592927237,metal_scraps.jpg,Thursday,April
+4/5/2024 12:18,organic,0.8981876262881159,food_waste.jpg,Friday,April
+4/5/2024 12:34,paper,0.9644044252563613,paper_waste.jpg,Friday,April
+4/5/2024 12:38,organic,0.8702532926382887,garden_waste.jpg,Friday,April
+4/5/2024 13:31,mixed,0.9259465852677377,mixed_waste.jpg,Friday,April
+4/5/2024 14:50,e-waste,0.990210090177817,computer_parts.jpg,Friday,April
+4/5/2024 15:01,clothes,0.9383003555138634,textile_waste.jpg,Friday,April
+4/5/2024 15:17,plastic,0.9094518011553684,plastic_containers.jpg,Friday,April
+4/5/2024 16:19,organic,0.9822176379117429,food_waste.jpg,Friday,April
+4/5/2024 17:16,mixed,0.9372377869020662,general_waste.jpg,Friday,April
+4/5/2024 18:12,e-waste,0.9655037581364602,electronic_waste.jpg,Friday,April
+4/5/2024 19:24,paper,0.892660822716467,paper_waste.jpg,Friday,April
+4/5/2024 19:55,clothes,0.8780000030953006,old_clothes.jpg,Friday,April
+4/5/2024 20:24,e-waste,0.8946337483030558,computer_parts.jpg,Friday,April
+4/5/2024 20:35,metal,0.897196677380641,aluminum_cans.jpg,Friday,April
+4/6/2024 8:04,metal,0.93594372270299,metal_scraps.jpg,Saturday,April
+4/6/2024 8:35,glass,0.8867301425267855,broken_glass.jpg,Saturday,April
+4/6/2024 13:35,plastic,0.9595317162960723,plastic_containers.jpg,Saturday,April
+4/6/2024 15:24,e-waste,0.9734620993685006,computer_parts.jpg,Saturday,April
+4/6/2024 16:11,mixed,0.9553514129134782,mixed_waste.jpg,Saturday,April
+4/6/2024 16:42,plastic,0.9992169786467309,plastic_waste_pile.jpg,Saturday,April
+4/6/2024 19:05,mixed,0.8898699512353958,misc_garbage.jpg,Saturday,April
+4/6/2024 20:32,batteries,0.9600120861984076,used_batteries.jpg,Saturday,April
+4/7/2024 9:44,organic,0.9262278270874248,compost_materials.jpg,Sunday,April
+4/7/2024 10:00,organic,0.8788183568311209,food_waste.jpg,Sunday,April
+4/7/2024 10:13,glass,0.8792463349592192,broken_glass.jpg,Sunday,April
+4/7/2024 10:15,organic,0.9496009488514445,garden_waste.jpg,Sunday,April
+4/7/2024 12:40,metal,0.8825569289179153,metal_scraps.jpg,Sunday,April
+4/7/2024 12:51,organic,0.9425350516734534,compost_materials.jpg,Sunday,April
+4/7/2024 14:26,clothes,0.9807669641290333,textile_waste.jpg,Sunday,April
+4/7/2024 14:46,glass,0.9853041723941593,glass_bottles.jpg,Sunday,April
+4/7/2024 15:32,mixed,0.9867604290250398,misc_garbage.jpg,Sunday,April
+4/7/2024 17:10,paper,0.8934407110235684,paper_waste.jpg,Sunday,April
+4/7/2024 18:18,plastic,0.9563528165856724,plastic_containers.jpg,Sunday,April
+4/7/2024 18:24,glass,0.8807358125761058,glass_bottles.jpg,Sunday,April
+4/7/2024 19:21,plastic,0.9345616312383027,plastic_waste_pile.jpg,Sunday,April
+4/8/2024 8:46,mixed,0.9659513648086477,mixed_waste.jpg,Monday,April
+4/8/2024 10:15,organic,0.9783253784732426,garden_waste.jpg,Monday,April
+4/8/2024 10:33,e-waste,0.935446682184057,old_electronics.jpg,Monday,April
+4/8/2024 12:04,mixed,0.9474013218787798,mixed_waste.jpg,Monday,April
+4/8/2024 12:24,organic,0.9643006950966533,garden_waste.jpg,Monday,April
+4/8/2024 15:08,paper,0.889196912076145,paper_waste.jpg,Monday,April
+4/8/2024 15:28,e-waste,0.9044823930404571,electronic_waste.jpg,Monday,April
+4/8/2024 15:40,plastic,0.9018389664536532,plastic_bottle_recycling.jpg,Monday,April
+4/8/2024 15:43,organic,0.9517053498558031,compost_materials.jpg,Monday,April
+4/8/2024 15:47,glass,0.8930875916472731,broken_glass.jpg,Monday,April
+4/8/2024 17:25,clothes,0.9038720572092545,textile_waste.jpg,Monday,April
+4/8/2024 17:28,paper,0.9499079185129741,cardboard_boxes.jpg,Monday,April
+4/8/2024 17:39,plastic,0.9839400526856029,plastic_bottle_recycling.jpg,Monday,April
+4/8/2024 17:47,paper,0.9528569870696765,newspaper_stack.jpg,Monday,April
+4/8/2024 18:19,organic,0.9249423296818603,garden_waste.jpg,Monday,April
+4/9/2024 10:51,e-waste,0.8767201728098717,electronic_waste.jpg,Tuesday,April
+4/9/2024 12:58,metal,0.901068206439774,aluminum_cans.jpg,Tuesday,April
+4/9/2024 13:10,mixed,0.9584421562744379,general_waste.jpg,Tuesday,April
+4/9/2024 13:49,batteries,0.9345462240285134,used_batteries.jpg,Tuesday,April
+4/9/2024 14:12,metal,0.9708837261868899,aluminum_cans.jpg,Tuesday,April
+4/9/2024 16:55,glass,0.8913502720002466,broken_glass.jpg,Tuesday,April
+4/9/2024 18:49,mixed,0.8681746188877689,misc_garbage.jpg,Tuesday,April
+4/9/2024 19:18,plastic,0.8652510064684015,plastic_containers.jpg,Tuesday,April
+4/9/2024 20:29,mixed,0.9448451354662261,misc_garbage.jpg,Tuesday,April
+4/10/2024 9:25,paper,0.9633206892202546,cardboard_boxes.jpg,Wednesday,April
+4/10/2024 9:33,paper,0.9722632262390227,newspaper_stack.jpg,Wednesday,April
+4/10/2024 10:23,glass,0.9039468472407286,glass_bottles.jpg,Wednesday,April
+4/10/2024 10:46,e-waste,0.8810469939548082,electronic_waste.jpg,Wednesday,April
+4/10/2024 10:49,organic,0.945431658897663,food_waste.jpg,Wednesday,April
+4/10/2024 11:05,glass,0.9454609139915048,broken_glass.jpg,Wednesday,April
+4/10/2024 14:27,clothes,0.9020586127463478,old_clothes.jpg,Wednesday,April
+4/10/2024 15:24,mixed,0.9187593406913798,mixed_waste.jpg,Wednesday,April
+4/10/2024 15:36,clothes,0.8977233328496869,fabric_scraps.jpg,Wednesday,April
+4/10/2024 16:47,glass,0.9033364572816178,glass_jars.jpg,Wednesday,April
+4/10/2024 17:52,plastic,0.8817754790196937,plastic_containers.jpg,Wednesday,April
+4/11/2024 9:26,plastic,0.8756598929039154,plastic_containers.jpg,Thursday,April
+4/11/2024 9:30,glass,0.957065623424601,glass_bottles.jpg,Thursday,April
+4/11/2024 10:25,organic,0.9026868415619514,compost_materials.jpg,Thursday,April
+4/11/2024 13:22,plastic,0.8888464937022992,plastic_containers.jpg,Thursday,April
+4/11/2024 15:45,plastic,0.8856964829710284,plastic_waste_pile.jpg,Thursday,April
+4/11/2024 17:46,paper,0.8812415478120114,cardboard_boxes.jpg,Thursday,April
+4/11/2024 18:02,paper,0.956493093679013,newspaper_stack.jpg,Thursday,April
+4/11/2024 19:28,metal,0.9088663500398034,metal_scraps.jpg,Thursday,April
+4/11/2024 20:06,glass,0.912779687630126,glass_bottles.jpg,Thursday,April
+4/11/2024 20:14,plastic,0.8586784169679548,plastic_waste_pile.jpg,Thursday,April
+4/11/2024 20:30,clothes,0.8914450149656614,fabric_scraps.jpg,Thursday,April
+4/11/2024 20:53,mixed,0.8667341158080182,mixed_waste.jpg,Thursday,April
+4/11/2024 20:57,plastic,0.899894612520523,plastic_bottle_recycling.jpg,Thursday,April
+4/12/2024 8:21,e-waste,0.9543942042689539,computer_parts.jpg,Friday,April
+4/12/2024 8:22,paper,0.8504611961124843,paper_waste.jpg,Friday,April
+4/12/2024 10:13,paper,0.9655478049672852,paper_waste.jpg,Friday,April
+4/12/2024 12:00,organic,0.9883507508099036,food_waste.jpg,Friday,April
+4/12/2024 12:17,e-waste,0.9639740684047169,computer_parts.jpg,Friday,April
+4/12/2024 16:06,clothes,0.9851005425899115,fabric_scraps.jpg,Friday,April
+4/12/2024 17:00,paper,0.9055188276294518,cardboard_boxes.jpg,Friday,April
+4/12/2024 17:29,mixed,0.890134198395007,mixed_waste.jpg,Friday,April
+4/13/2024 9:12,plastic,0.9073488711808847,plastic_containers.jpg,Saturday,April
+4/13/2024 11:11,plastic,0.9142358162983187,plastic_bottle_recycling.jpg,Saturday,April
+4/13/2024 12:06,organic,0.8812639979537389,food_waste.jpg,Saturday,April
+4/13/2024 12:39,metal,0.8741066159505629,tin_containers.jpg,Saturday,April
+4/13/2024 14:44,glass,0.916038142281555,glass_jars.jpg,Saturday,April
+4/13/2024 19:30,mixed,0.8736775702639222,general_waste.jpg,Saturday,April
+4/14/2024 8:11,glass,0.8592864787982774,glass_bottles.jpg,Sunday,April
+4/14/2024 9:49,metal,0.9080225900899912,aluminum_cans.jpg,Sunday,April
+4/14/2024 11:21,clothes,0.9589612197455385,textile_waste.jpg,Sunday,April
+4/14/2024 12:17,batteries,0.8848229132297999,battery_waste.jpg,Sunday,April
+4/14/2024 12:29,glass,0.9311011957334853,glass_jars.jpg,Sunday,April
+4/14/2024 16:24,batteries,0.9340129410707788,used_batteries.jpg,Sunday,April
+4/14/2024 16:55,mixed,0.9328705664938493,mixed_waste.jpg,Sunday,April
+4/14/2024 17:08,mixed,0.9533126821541982,mixed_waste.jpg,Sunday,April
+4/14/2024 17:54,batteries,0.9462099908941364,battery_collection.jpg,Sunday,April
+4/14/2024 18:45,plastic,0.8533122573008148,plastic_bottle_recycling.jpg,Sunday,April
+4/14/2024 18:53,organic,0.9636144395053375,garden_waste.jpg,Sunday,April
+4/14/2024 20:24,plastic,0.854154761021414,plastic_containers.jpg,Sunday,April
+4/14/2024 20:33,mixed,0.9762882695160721,general_waste.jpg,Sunday,April
+4/15/2024 9:53,paper,0.8807874520635662,cardboard_boxes.jpg,Monday,April
+4/15/2024 10:21,plastic,0.8912641249606764,plastic_containers.jpg,Monday,April
+4/15/2024 13:46,glass,0.9292075640977393,glass_bottles.jpg,Monday,April
+4/15/2024 13:54,mixed,0.9454221624506772,misc_garbage.jpg,Monday,April
+4/15/2024 14:47,e-waste,0.9025939942781813,electronic_waste.jpg,Monday,April
+4/15/2024 20:13,clothes,0.9513913873334284,textile_waste.jpg,Monday,April
+4/15/2024 20:56,plastic,0.9234928224340134,plastic_containers.jpg,Monday,April
+4/16/2024 9:16,paper,0.9400005175920063,cardboard_boxes.jpg,Tuesday,April
+4/16/2024 10:54,organic,0.9367735273756147,garden_waste.jpg,Tuesday,April
+4/16/2024 11:48,plastic,0.940363123748939,plastic_bottle_recycling.jpg,Tuesday,April
+4/16/2024 11:55,clothes,0.927682766882644,textile_waste.jpg,Tuesday,April
+4/16/2024 12:42,plastic,0.9970492955631528,plastic_bottle_recycling.jpg,Tuesday,April
+4/16/2024 12:55,organic,0.8728925707613383,compost_materials.jpg,Tuesday,April
+4/16/2024 14:38,organic,0.9452299364194519,food_waste.jpg,Tuesday,April
+4/16/2024 16:20,e-waste,0.8816263901292987,electronic_waste.jpg,Tuesday,April
+4/16/2024 16:25,clothes,0.8706390066121692,fabric_scraps.jpg,Tuesday,April
+4/16/2024 17:08,plastic,0.9489117228054443,plastic_containers.jpg,Tuesday,April
+4/16/2024 17:53,clothes,0.88864738080259,textile_waste.jpg,Tuesday,April
+4/16/2024 19:09,plastic,0.9518244655893222,plastic_containers.jpg,Tuesday,April
+4/16/2024 19:32,metal,0.9661687874968307,aluminum_cans.jpg,Tuesday,April
+4/17/2024 9:38,mixed,0.9886626355403519,general_waste.jpg,Wednesday,April
+4/17/2024 11:39,e-waste,0.9659350190157043,electronic_waste.jpg,Wednesday,April
+4/17/2024 12:03,organic,0.9211553469246887,food_waste.jpg,Wednesday,April
+4/17/2024 12:53,metal,0.8854190329969774,metal_scraps.jpg,Wednesday,April
+4/17/2024 14:55,organic,0.9678141899420372,food_waste.jpg,Wednesday,April
+4/17/2024 19:56,metal,0.8563614317560692,metal_scraps.jpg,Wednesday,April
+4/18/2024 10:07,organic,0.957761183642057,compost_materials.jpg,Thursday,April
+4/18/2024 12:43,batteries,0.925168110520675,battery_waste.jpg,Thursday,April
+4/18/2024 14:52,clothes,0.9237208812418589,textile_waste.jpg,Thursday,April
+4/18/2024 16:18,plastic,0.9786128825805167,plastic_waste_pile.jpg,Thursday,April
+4/18/2024 17:52,plastic,0.9108638183910309,plastic_containers.jpg,Thursday,April
+4/18/2024 18:34,organic,0.9235964722269394,compost_materials.jpg,Thursday,April
+4/19/2024 11:05,organic,0.8944128006893143,food_waste.jpg,Friday,April
+4/19/2024 13:40,clothes,0.9759746687484285,fabric_scraps.jpg,Friday,April
+4/19/2024 14:16,batteries,0.9601672145676835,battery_collection.jpg,Friday,April
+4/19/2024 16:04,clothes,0.9163147002572186,fabric_scraps.jpg,Friday,April
+4/19/2024 17:37,metal,0.9702577742912475,aluminum_cans.jpg,Friday,April
+4/19/2024 19:51,batteries,0.911571770583604,battery_collection.jpg,Friday,April
+4/20/2024 8:14,glass,0.8786631783434954,glass_bottles.jpg,Saturday,April
+4/20/2024 8:20,paper,0.879093770434642,cardboard_boxes.jpg,Saturday,April
+4/20/2024 8:51,paper,0.9063820030923618,cardboard_boxes.jpg,Saturday,April
+4/20/2024 10:50,clothes,0.9446151640132605,textile_waste.jpg,Saturday,April
+4/20/2024 13:07,e-waste,0.9919079640524676,old_electronics.jpg,Saturday,April
+4/20/2024 13:41,organic,0.994652499822852,garden_waste.jpg,Saturday,April
+4/20/2024 14:19,paper,0.9626753281302671,paper_waste.jpg,Saturday,April
+4/20/2024 15:04,metal,0.9946441897546556,aluminum_cans.jpg,Saturday,April
+4/20/2024 15:41,paper,0.9520999477140468,paper_waste.jpg,Saturday,April
+4/20/2024 16:01,metal,0.8949407794286085,aluminum_cans.jpg,Saturday,April
+4/20/2024 16:12,clothes,0.9377242976839878,fabric_scraps.jpg,Saturday,April
+4/20/2024 17:04,glass,0.9258354460681016,glass_jars.jpg,Saturday,April
+4/20/2024 18:34,organic,0.960153095746022,garden_waste.jpg,Saturday,April
+4/20/2024 18:44,e-waste,0.9136722851002734,old_electronics.jpg,Saturday,April
+4/20/2024 20:56,clothes,0.9047120066217457,textile_waste.jpg,Saturday,April
+4/21/2024 8:26,metal,0.9619017467486963,aluminum_cans.jpg,Sunday,April
+4/21/2024 9:16,glass,0.9755270833452271,glass_bottles.jpg,Sunday,April
+4/21/2024 9:51,glass,0.988229109994105,glass_jars.jpg,Sunday,April
+4/21/2024 11:42,mixed,0.9521805341345453,misc_garbage.jpg,Sunday,April
+4/21/2024 15:02,e-waste,0.9852190208113987,electronic_waste.jpg,Sunday,April
+4/21/2024 16:02,glass,0.9048295531118543,glass_bottles.jpg,Sunday,April
+4/21/2024 16:19,metal,0.9864670786188355,metal_scraps.jpg,Sunday,April
+4/21/2024 18:26,clothes,0.9689287586650412,textile_waste.jpg,Sunday,April
+4/21/2024 18:47,mixed,0.9404927343575119,general_waste.jpg,Sunday,April
+4/21/2024 18:51,clothes,0.8548105141139356,old_clothes.jpg,Sunday,April
+4/21/2024 20:32,plastic,0.8744980524141391,plastic_bottle_recycling.jpg,Sunday,April
+4/22/2024 13:55,glass,0.9212689710740972,broken_glass.jpg,Monday,April
+4/22/2024 14:23,paper,0.982949926512015,newspaper_stack.jpg,Monday,April
+4/22/2024 14:44,plastic,0.909446620837856,plastic_containers.jpg,Monday,April
+4/22/2024 16:37,paper,0.8894756988061914,cardboard_boxes.jpg,Monday,April
+4/22/2024 17:18,glass,0.9903100784628842,glass_bottles.jpg,Monday,April
+4/22/2024 18:18,metal,0.9670716343230397,tin_containers.jpg,Monday,April
+4/23/2024 9:12,mixed,0.8834201762941775,general_waste.jpg,Tuesday,April
+4/23/2024 9:56,plastic,0.9379873642296322,plastic_bottle_recycling.jpg,Tuesday,April
+4/23/2024 14:50,organic,0.9956147467424017,garden_waste.jpg,Tuesday,April
+4/23/2024 15:17,metal,0.9611793117479703,metal_scraps.jpg,Tuesday,April
+4/23/2024 16:50,plastic,0.9836954264876973,plastic_waste_pile.jpg,Tuesday,April
+4/24/2024 8:15,metal,0.9313534426505469,metal_scraps.jpg,Wednesday,April
+4/24/2024 10:18,organic,0.9326972038535486,garden_waste.jpg,Wednesday,April
+4/24/2024 10:34,mixed,0.872507962109599,misc_garbage.jpg,Wednesday,April
+4/24/2024 11:13,paper,0.9154566681360046,paper_waste.jpg,Wednesday,April
+4/24/2024 12:03,organic,0.9040241323397944,food_waste.jpg,Wednesday,April
+4/24/2024 14:16,clothes,0.9412465141348896,fabric_scraps.jpg,Wednesday,April
+4/24/2024 14:59,paper,0.9040603503073048,newspaper_stack.jpg,Wednesday,April
+4/24/2024 15:59,paper,0.9638511264658373,paper_waste.jpg,Wednesday,April
+4/24/2024 16:01,plastic,0.8887438221462246,plastic_containers.jpg,Wednesday,April
+4/24/2024 16:27,metal,0.870903098088774,metal_scraps.jpg,Wednesday,April
+4/24/2024 17:11,glass,0.9566077543167698,glass_jars.jpg,Wednesday,April
+4/24/2024 18:34,plastic,0.9659700523741774,plastic_waste_pile.jpg,Wednesday,April
+4/24/2024 19:45,plastic,0.8761244540336363,plastic_waste_pile.jpg,Wednesday,April
+4/24/2024 19:57,paper,0.9527415488470858,newspaper_stack.jpg,Wednesday,April
+4/25/2024 9:59,organic,0.8828183276312528,compost_materials.jpg,Thursday,April
+4/25/2024 11:40,plastic,0.954726014000897,plastic_bottle_recycling.jpg,Thursday,April
+4/25/2024 11:48,clothes,0.8975679568497837,old_clothes.jpg,Thursday,April
+4/25/2024 14:42,e-waste,0.9654356396865919,computer_parts.jpg,Thursday,April
+4/25/2024 16:51,e-waste,0.9155660730348594,computer_parts.jpg,Thursday,April
+4/25/2024 19:12,glass,0.9072064255010117,glass_bottles.jpg,Thursday,April
+4/25/2024 19:23,mixed,0.8837308754833807,general_waste.jpg,Thursday,April
+4/25/2024 19:58,clothes,0.9618660192720401,fabric_scraps.jpg,Thursday,April
+4/25/2024 20:57,organic,0.9343045957745257,garden_waste.jpg,Thursday,April
+4/26/2024 8:49,e-waste,0.9707563567189432,old_electronics.jpg,Friday,April
+4/26/2024 9:17,organic,0.8773973109298604,compost_materials.jpg,Friday,April
+4/26/2024 9:24,plastic,0.9726035828268842,plastic_waste_pile.jpg,Friday,April
+4/26/2024 10:53,e-waste,0.9933039105642377,computer_parts.jpg,Friday,April
+4/26/2024 13:23,organic,0.9243359148391197,food_waste.jpg,Friday,April
+4/26/2024 16:30,e-waste,0.985116055305306,old_electronics.jpg,Friday,April
+4/26/2024 16:31,mixed,0.9526304318501324,misc_garbage.jpg,Friday,April
+4/26/2024 16:31,plastic,0.90555388512094,plastic_waste_pile.jpg,Friday,April
+4/27/2024 8:22,e-waste,0.9026523309781687,electronic_waste.jpg,Saturday,April
+4/27/2024 12:56,plastic,0.878992565102878,plastic_bottle_recycling.jpg,Saturday,April
+4/27/2024 14:58,organic,0.9595547023679746,garden_waste.jpg,Saturday,April
+4/27/2024 18:37,mixed,0.8921919997425377,general_waste.jpg,Saturday,April
+4/27/2024 19:02,paper,0.8515280299212361,paper_waste.jpg,Saturday,April
+4/28/2024 9:16,glass,0.976158600766635,glass_bottles.jpg,Sunday,April
+4/28/2024 11:57,e-waste,0.9976448285050672,computer_parts.jpg,Sunday,April
+4/28/2024 12:02,plastic,0.8852142890130267,plastic_waste_pile.jpg,Sunday,April
+4/28/2024 12:14,glass,0.9892902727154975,glass_bottles.jpg,Sunday,April
+4/28/2024 16:59,organic,0.895207135254752,garden_waste.jpg,Sunday,April
+4/28/2024 19:10,glass,0.8625758723696695,glass_bottles.jpg,Sunday,April
+4/28/2024 19:11,plastic,0.9353536757351463,plastic_containers.jpg,Sunday,April
+4/29/2024 8:31,clothes,0.9241622063848526,fabric_scraps.jpg,Monday,April
+4/29/2024 9:46,metal,0.9192472443025133,metal_scraps.jpg,Monday,April
+4/29/2024 10:51,plastic,0.961577581354102,plastic_bottle_recycling.jpg,Monday,April
+4/29/2024 13:08,plastic,0.9659425890103818,plastic_bottle_recycling.jpg,Monday,April
+4/29/2024 13:25,batteries,0.995158969503994,battery_waste.jpg,Monday,April
+4/30/2024 9:23,e-waste,0.9934746104304089,old_electronics.jpg,Tuesday,April
+4/30/2024 9:46,clothes,0.9443735692298371,textile_waste.jpg,Tuesday,April
+4/30/2024 10:02,e-waste,0.8999314230327978,electronic_waste.jpg,Tuesday,April
+4/30/2024 10:14,batteries,0.8900419992641501,used_batteries.jpg,Tuesday,April
+4/30/2024 10:59,paper,0.9616141486676072,cardboard_boxes.jpg,Tuesday,April
+4/30/2024 11:57,clothes,0.9604318100600152,fabric_scraps.jpg,Tuesday,April
+4/30/2024 12:55,mixed,0.9147068268795435,misc_garbage.jpg,Tuesday,April
+4/30/2024 13:51,clothes,0.9941837630771535,fabric_scraps.jpg,Tuesday,April
+4/30/2024 14:50,paper,0.9544992100334745,newspaper_stack.jpg,Tuesday,April
+4/30/2024 15:09,mixed,0.8788535629088532,mixed_waste.jpg,Tuesday,April
+4/30/2024 15:21,metal,0.937755920949966,metal_scraps.jpg,Tuesday,April
+4/30/2024 17:27,clothes,0.884389578862661,fabric_scraps.jpg,Tuesday,April
+4/30/2024 20:57,paper,0.850284004025517,paper_waste.jpg,Tuesday,April
+5/1/2024 11:23,paper,0.8931574917732759,paper_waste.jpg,Wednesday,May
+5/1/2024 11:35,organic,0.9625553205671543,compost_materials.jpg,Wednesday,May
+5/1/2024 12:40,clothes,0.9543282020589318,fabric_scraps.jpg,Wednesday,May
+5/1/2024 13:18,plastic,0.879981321257469,plastic_waste_pile.jpg,Wednesday,May
+5/1/2024 13:21,plastic,0.8914982252059098,plastic_containers.jpg,Wednesday,May
+5/1/2024 14:34,mixed,0.8799599235389848,misc_garbage.jpg,Wednesday,May
+5/1/2024 15:41,paper,0.9096436734489989,cardboard_boxes.jpg,Wednesday,May
+5/1/2024 17:14,paper,0.9878746354146916,newspaper_stack.jpg,Wednesday,May
+5/1/2024 17:36,plastic,0.9433585994171467,plastic_containers.jpg,Wednesday,May
+5/1/2024 18:20,paper,0.9758221876294307,newspaper_stack.jpg,Wednesday,May
+5/1/2024 18:43,plastic,0.9011957743091814,plastic_bottle_recycling.jpg,Wednesday,May
+5/1/2024 19:52,paper,0.861357262305342,paper_waste.jpg,Wednesday,May
+5/2/2024 11:21,plastic,0.9858757363260017,plastic_containers.jpg,Thursday,May
+5/2/2024 12:03,glass,0.9123252346257158,glass_bottles.jpg,Thursday,May
+5/2/2024 12:11,paper,0.870472461832328,newspaper_stack.jpg,Thursday,May
+5/2/2024 12:21,plastic,0.9092512647597011,plastic_waste_pile.jpg,Thursday,May
+5/2/2024 13:39,paper,0.8716318414703156,newspaper_stack.jpg,Thursday,May
+5/2/2024 15:33,glass,0.9785520514560778,glass_jars.jpg,Thursday,May
+5/2/2024 17:45,organic,0.9539937362152753,compost_materials.jpg,Thursday,May
+5/2/2024 18:28,batteries,0.9030514863926505,battery_collection.jpg,Thursday,May
+5/2/2024 18:53,organic,0.9671342716364777,garden_waste.jpg,Thursday,May
+5/2/2024 19:15,organic,0.9223925741887113,garden_waste.jpg,Thursday,May
+5/3/2024 10:35,paper,0.9776796650040708,cardboard_boxes.jpg,Friday,May
+5/3/2024 12:15,plastic,0.8892978071741711,plastic_containers.jpg,Friday,May
+5/3/2024 14:52,plastic,0.9031997260329458,plastic_containers.jpg,Friday,May
+5/3/2024 15:06,metal,0.8922311357104428,metal_scraps.jpg,Friday,May
+5/3/2024 15:42,mixed,0.9708405774532545,general_waste.jpg,Friday,May
+5/3/2024 15:57,metal,0.9844492462108829,tin_containers.jpg,Friday,May
+5/3/2024 16:54,plastic,0.8793626267622521,plastic_waste_pile.jpg,Friday,May
+5/3/2024 17:08,plastic,0.9300301366872938,plastic_containers.jpg,Friday,May
+5/3/2024 17:30,paper,0.8958065430205574,paper_waste.jpg,Friday,May
+5/3/2024 17:54,paper,0.9899614226763427,paper_waste.jpg,Friday,May
+5/3/2024 18:42,glass,0.8545850125495691,glass_bottles.jpg,Friday,May
+5/3/2024 19:09,plastic,0.8637649395147086,plastic_bottle_recycling.jpg,Friday,May
+5/3/2024 19:41,e-waste,0.8564453239186661,computer_parts.jpg,Friday,May
+5/3/2024 19:54,metal,0.8780470801621837,tin_containers.jpg,Friday,May
+5/3/2024 20:09,organic,0.860615693930867,garden_waste.jpg,Friday,May
+5/4/2024 8:59,glass,0.9214702269126087,glass_jars.jpg,Saturday,May
+5/4/2024 9:50,organic,0.9059433055334706,garden_waste.jpg,Saturday,May
+5/4/2024 10:03,plastic,0.8729411772661488,plastic_containers.jpg,Saturday,May
+5/4/2024 10:15,organic,0.9526061405916655,compost_materials.jpg,Saturday,May
+5/4/2024 11:08,clothes,0.9498231750847411,fabric_scraps.jpg,Saturday,May
+5/4/2024 11:54,organic,0.989894714501897,garden_waste.jpg,Saturday,May
+5/4/2024 12:38,organic,0.958167434490101,compost_materials.jpg,Saturday,May
+5/4/2024 13:02,plastic,0.9314668787053879,plastic_bottle_recycling.jpg,Saturday,May
+5/4/2024 13:30,metal,0.9553697012278902,metal_scraps.jpg,Saturday,May
+5/4/2024 18:04,clothes,0.866712966395527,old_clothes.jpg,Saturday,May
+5/4/2024 19:37,plastic,0.8561617849987975,plastic_waste_pile.jpg,Saturday,May
+5/4/2024 20:50,paper,0.863108528601399,newspaper_stack.jpg,Saturday,May
+5/5/2024 8:36,clothes,0.9742006202814795,textile_waste.jpg,Sunday,May
+5/5/2024 9:12,mixed,0.9384044796195411,general_waste.jpg,Sunday,May
+5/5/2024 10:39,organic,0.9583112729869241,food_waste.jpg,Sunday,May
+5/5/2024 10:43,organic,0.9771691972295162,food_waste.jpg,Sunday,May
+5/5/2024 14:17,metal,0.9862215972555612,metal_scraps.jpg,Sunday,May
+5/5/2024 14:18,mixed,0.9537540845334818,general_waste.jpg,Sunday,May
+5/5/2024 15:38,clothes,0.8997783211576454,old_clothes.jpg,Sunday,May
+5/5/2024 16:58,metal,0.8910748383187092,metal_scraps.jpg,Sunday,May
+5/5/2024 17:16,metal,0.8899439266359591,tin_containers.jpg,Sunday,May
+5/6/2024 8:21,plastic,0.9673401444725093,plastic_containers.jpg,Monday,May
+5/6/2024 8:26,plastic,0.9396076930313038,plastic_waste_pile.jpg,Monday,May
+5/6/2024 9:03,organic,0.9986053931802479,garden_waste.jpg,Monday,May
+5/6/2024 9:36,clothes,0.8854675955244113,old_clothes.jpg,Monday,May
+5/6/2024 9:51,plastic,0.8990466207316775,plastic_bottle_recycling.jpg,Monday,May
+5/6/2024 10:13,plastic,0.9442554927021237,plastic_bottle_recycling.jpg,Monday,May
+5/6/2024 13:57,organic,0.9133210335493397,garden_waste.jpg,Monday,May
+5/6/2024 16:34,paper,0.9479162278641744,newspaper_stack.jpg,Monday,May
+5/6/2024 16:43,clothes,0.9856880212514012,textile_waste.jpg,Monday,May
+5/6/2024 17:52,paper,0.9256585016770364,cardboard_boxes.jpg,Monday,May
+5/6/2024 17:52,plastic,0.9465909065172392,plastic_containers.jpg,Monday,May
+5/6/2024 19:08,organic,0.9753564433238604,food_waste.jpg,Monday,May
+5/6/2024 20:21,metal,0.9426145493773411,metal_scraps.jpg,Monday,May
+5/7/2024 8:13,clothes,0.9658170567790234,fabric_scraps.jpg,Tuesday,May
+5/7/2024 10:59,glass,0.8845638522914832,broken_glass.jpg,Tuesday,May
+5/7/2024 11:13,plastic,0.9445815024064215,plastic_waste_pile.jpg,Tuesday,May
+5/7/2024 11:57,clothes,0.9646880026818103,old_clothes.jpg,Tuesday,May
+5/7/2024 13:03,mixed,0.9477149195065802,misc_garbage.jpg,Tuesday,May
+5/7/2024 13:33,plastic,0.9360062091376927,plastic_waste_pile.jpg,Tuesday,May
+5/7/2024 14:48,plastic,0.966205957898043,plastic_bottle_recycling.jpg,Tuesday,May
+5/7/2024 16:27,organic,0.8842152717466066,food_waste.jpg,Tuesday,May
+5/7/2024 17:10,plastic,0.8713294762027007,plastic_waste_pile.jpg,Tuesday,May
+5/7/2024 17:19,paper,0.9612789117843638,cardboard_boxes.jpg,Tuesday,May
+5/7/2024 17:28,metal,0.9283373331428707,metal_scraps.jpg,Tuesday,May
+5/7/2024 18:28,mixed,0.8638211092891901,misc_garbage.jpg,Tuesday,May
+5/8/2024 10:17,metal,0.9568387621865343,aluminum_cans.jpg,Wednesday,May
+5/8/2024 11:02,clothes,0.9491464390784434,old_clothes.jpg,Wednesday,May
+5/8/2024 11:11,metal,0.9707997800743762,aluminum_cans.jpg,Wednesday,May
+5/8/2024 12:01,paper,0.9144942981944533,newspaper_stack.jpg,Wednesday,May
+5/8/2024 13:03,plastic,0.9868390791779552,plastic_bottle_recycling.jpg,Wednesday,May
+5/8/2024 13:52,organic,0.9416315227218268,compost_materials.jpg,Wednesday,May
+5/8/2024 15:43,plastic,0.9711144811691115,plastic_waste_pile.jpg,Wednesday,May
+5/8/2024 16:04,glass,0.9826414152208397,glass_bottles.jpg,Wednesday,May
+5/8/2024 17:17,e-waste,0.8966034709285178,old_electronics.jpg,Wednesday,May
+5/8/2024 17:45,metal,0.8777580870229843,tin_containers.jpg,Wednesday,May
+5/8/2024 19:00,mixed,0.9719079263444497,general_waste.jpg,Wednesday,May
+5/8/2024 19:08,organic,0.8950822539699931,garden_waste.jpg,Wednesday,May
+5/8/2024 19:10,e-waste,0.9160684610139216,computer_parts.jpg,Wednesday,May
+5/8/2024 19:12,metal,0.8781692832732797,tin_containers.jpg,Wednesday,May
+5/9/2024 8:10,metal,0.8573969349032402,metal_scraps.jpg,Thursday,May
+5/9/2024 11:52,glass,0.9009315322912991,broken_glass.jpg,Thursday,May
+5/9/2024 13:02,plastic,0.9871183139888587,plastic_waste_pile.jpg,Thursday,May
+5/9/2024 14:18,organic,0.9945741917352781,food_waste.jpg,Thursday,May
+5/9/2024 15:07,e-waste,0.9839805580581948,computer_parts.jpg,Thursday,May
+5/9/2024 15:39,plastic,0.9174537511309846,plastic_containers.jpg,Thursday,May
+5/9/2024 18:35,mixed,0.9732057798764255,misc_garbage.jpg,Thursday,May
+5/9/2024 19:15,mixed,0.8833997146364547,mixed_waste.jpg,Thursday,May
+5/9/2024 20:58,e-waste,0.9021423838645801,electronic_waste.jpg,Thursday,May
+5/10/2024 10:15,organic,0.9424728988086731,garden_waste.jpg,Friday,May
+5/10/2024 12:19,plastic,0.9553766106663276,plastic_waste_pile.jpg,Friday,May
+5/10/2024 12:25,metal,0.9309360727441562,aluminum_cans.jpg,Friday,May
+5/10/2024 14:16,paper,0.8727436830406932,paper_waste.jpg,Friday,May
+5/10/2024 14:33,glass,0.9102174880058769,broken_glass.jpg,Friday,May
+5/10/2024 14:36,paper,0.9149345852530251,paper_waste.jpg,Friday,May
+5/10/2024 15:28,paper,0.8969435442871896,newspaper_stack.jpg,Friday,May
+5/10/2024 17:57,clothes,0.9630876084959687,fabric_scraps.jpg,Friday,May
+5/10/2024 18:39,mixed,0.9288341116881037,mixed_waste.jpg,Friday,May
+5/11/2024 8:19,organic,0.8826388117944114,garden_waste.jpg,Saturday,May
+5/11/2024 11:33,organic,0.9299645702536207,compost_materials.jpg,Saturday,May
+5/11/2024 16:00,batteries,0.9072007217194968,battery_collection.jpg,Saturday,May
+5/11/2024 16:38,e-waste,0.9280959950698549,computer_parts.jpg,Saturday,May
+5/11/2024 16:58,plastic,0.9511569359667862,plastic_containers.jpg,Saturday,May
+5/11/2024 19:50,mixed,0.9623483746154132,general_waste.jpg,Saturday,May
+5/11/2024 20:35,metal,0.953509054441391,aluminum_cans.jpg,Saturday,May
+5/11/2024 20:45,batteries,0.8572598518434112,used_batteries.jpg,Saturday,May
+5/12/2024 8:29,plastic,0.9722750845342157,plastic_containers.jpg,Sunday,May
+5/12/2024 9:05,mixed,0.9192916521718406,general_waste.jpg,Sunday,May
+5/12/2024 10:17,plastic,0.903794507788968,plastic_bottle_recycling.jpg,Sunday,May
+5/12/2024 11:39,metal,0.9782914854131556,metal_scraps.jpg,Sunday,May
+5/12/2024 11:53,metal,0.9528789471213035,tin_containers.jpg,Sunday,May
+5/12/2024 11:59,organic,0.9882507680591636,compost_materials.jpg,Sunday,May
+5/12/2024 14:11,glass,0.9303409613976867,glass_jars.jpg,Sunday,May
+5/12/2024 14:24,organic,0.8821510067134928,compost_materials.jpg,Sunday,May
+5/12/2024 15:15,organic,0.8895773745317472,garden_waste.jpg,Sunday,May
+5/12/2024 17:45,glass,0.9932308103007695,broken_glass.jpg,Sunday,May
+5/12/2024 17:55,mixed,0.970044579170098,misc_garbage.jpg,Sunday,May
+5/12/2024 18:09,mixed,0.9273312968375556,mixed_waste.jpg,Sunday,May
+5/12/2024 18:14,plastic,0.8527371030567765,plastic_containers.jpg,Sunday,May
+5/12/2024 20:39,mixed,0.9648598312078215,misc_garbage.jpg,Sunday,May
+5/13/2024 9:32,organic,0.9195512687974319,garden_waste.jpg,Monday,May
+5/13/2024 10:17,mixed,0.916405948685858,misc_garbage.jpg,Monday,May
+5/13/2024 12:28,plastic,0.8879407336466277,plastic_waste_pile.jpg,Monday,May
+5/13/2024 13:59,mixed,0.9305581882096815,misc_garbage.jpg,Monday,May
+5/13/2024 14:13,plastic,0.9468711012148487,plastic_containers.jpg,Monday,May
+5/13/2024 16:14,plastic,0.9975375702810249,plastic_containers.jpg,Monday,May
+5/13/2024 16:31,plastic,0.9677979038227627,plastic_containers.jpg,Monday,May
+5/13/2024 17:39,glass,0.9963459221503175,glass_bottles.jpg,Monday,May
+5/13/2024 19:31,metal,0.897927841951514,metal_scraps.jpg,Monday,May
+5/13/2024 20:09,e-waste,0.9739759693198395,computer_parts.jpg,Monday,May
+5/14/2024 8:37,plastic,0.942438493581825,plastic_containers.jpg,Tuesday,May
+5/14/2024 9:10,plastic,0.9632398490111267,plastic_containers.jpg,Tuesday,May
+5/14/2024 9:30,glass,0.9610208955681366,glass_jars.jpg,Tuesday,May
+5/14/2024 10:19,metal,0.9362699116235509,aluminum_cans.jpg,Tuesday,May
+5/14/2024 10:48,organic,0.8947454590353318,compost_materials.jpg,Tuesday,May
+5/14/2024 11:07,glass,0.8725662786592611,glass_jars.jpg,Tuesday,May
+5/14/2024 15:30,metal,0.8815318717019381,aluminum_cans.jpg,Tuesday,May
+5/14/2024 16:35,organic,0.9397294092956867,garden_waste.jpg,Tuesday,May
+5/14/2024 17:11,glass,0.9843188472553959,glass_jars.jpg,Tuesday,May
+5/14/2024 18:16,plastic,0.9527438831353359,plastic_bottle_recycling.jpg,Tuesday,May
+5/14/2024 18:46,mixed,0.8851207970863807,misc_garbage.jpg,Tuesday,May
+5/14/2024 19:22,glass,0.880990176114527,glass_jars.jpg,Tuesday,May
+5/15/2024 8:50,plastic,0.9475990996845419,plastic_bottle_recycling.jpg,Wednesday,May
+5/15/2024 16:54,organic,0.9296060705874697,compost_materials.jpg,Wednesday,May
+5/15/2024 17:01,plastic,0.9460558355842467,plastic_bottle_recycling.jpg,Wednesday,May
+5/15/2024 17:48,glass,0.9054470765683182,glass_jars.jpg,Wednesday,May
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

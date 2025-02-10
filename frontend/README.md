@@ -1,36 +1,139 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI-Powered Mapping Application
 
-## Getting Started
+A full-stack application combining Next.js frontends with Python AI backend and Mapbox integration.
 
-First, run the development server:
+## Project Overview
 
+This project consists of two main components:
+- A primary Next.js frontend with Mapbox integration for geographic visualization
+- A Python backend running AI models, with its own Next.js admin interface
+
+## Architecture
+
+### Frontend Stack
+- **Framework**: Next.js
+- **Mapping**: Mapbox GL JS
+- **Styling**: Tailwind
+- **UI library**: Shadcn
+
+### Backend Stack
+- **AI Server**: Python
+- **Admin Interface**: Next.js
+- **API Framework**: FastAPI
+- **Database**: Supabase
+
+## Prerequisites
+
+- Node.js (v18 or higher)
+- Python 3.8+
+- Mapbox API key
+- Gemini API key
+
+## Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/maneedasshrestha/CodeYatra.git  
+cd CodeYatra
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install frontend dependencies:
+```bash
+cd frontend
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Install admin frontend dependencies:
+```bash
+cd ../admin-frontend
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Set up Python environment and install backend dependencies:
+```bash
+cd ../backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
 
-## Learn More
+## Configuration
 
-To learn more about Next.js, take a look at the following resources:
+1. Create `.env.local` in the frontend directory:
+```
+NEXT_PUBLIC_MAPBOX_TOKEN=your_mapbox_token
+API_BASE_URL=your_backend_url
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Create `.env` in the backend directory:
+```
+MODEL_PATH=path_to_ai_model
+DATABASE_URL=your_database_url
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Running the Application
+[//]: # (TODO: change the frontend, admin-frontend and backend directories)
 
-## Deploy on Vercel
+### Frontend
+```bash
+cd frontend
+npm run dev
+```
+The application will be available at `http://localhost:3000`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Admin Frontend
+```bash
+cd admin-frontend
+npm run dev
+```
+The admin interface will be available at `http://localhost:3001`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Backend
+```bash
+cd backend
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+python main.py
+```
+The API will be available at `http://localhost:8000`
+
+## Project Structure
+
+```
+├── frontend/               # Main Next.js frontend
+│   ├── components/        # React components
+│   ├── pages/            # Next.js pages
+│   └── public/           # Static assets
+│
+├── admin-frontend/        # Admin interface
+│   ├── components/       # Admin components
+│   └── pages/           # Admin pages
+│
+└── backend/              # Python backend
+    ├── models/          # AI models
+    ├── api/            # API endpoints
+    └── utils/          # Utility functions
+```
+
+## API Documentation
+
+### Main Endpoints
+
+
+- `POST /api/predict`: Run AI model prediction
+  Input: image file
+
+- `POST /api/analyze`: Retrieve visualization data
+  Input: Csv file
+- `POST /api/chat`: Run chatbot
+  Input String object
+
+
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to the branch
+5. Create a Pull Request
+

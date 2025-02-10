@@ -58,6 +58,26 @@ def log_prediction(prediction: str, confidence: float, image_name: str):
         'month': now.strftime('%B')
     }])
     new_row.to_csv(LOG_FILE, mode='a', header=False, index=False)
+    
+async def generate_summary(df: pd.DataFrame) -> str:
+    try:
+        # Create a summary of the data
+        data_summary = df.to_string()
+        
+        prompt = f"""Based on the following waste prediction data:
+        {data_summary}
+        
+        Please provide:
+        1. Key trends and patterns
+        2. Waste-to-energy recommendations
+        3. Logistics optimization suggestions
+        """
+        
+        response = gemini_model.generate_content(prompt)
+        return response.text
+    
+    except Exception as e:
+        return f"Error generating summary: {str(e)}"
 
 @app.post("/api/predict")
 async def predict_waste(file: UploadFile = File(...)):
@@ -119,8 +139,8 @@ async def analyze_csv(file: UploadFile = File(...)):
         summary = await generate_summary(df)
         
         return {
-            "monthlyData": monthly_data,
-            "dailyData": daily_data,
+            # "monthlyData": monthly_data,
+            # "dailyData": daily_data,
             "summary": summary
         }
     
@@ -140,26 +160,6 @@ async def chat(request: ChatRequest):
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-
-async def generate_summary(df: pd.DataFrame) -> str:
-    try:
-        # Create a summary of the data
-        data_summary = df.to_string()
-        
-        prompt = f"""Based on the following waste prediction data:
-        {data_summary}
-        
-        Please provide:
-        1. Key trends and patterns
-        2. Waste-to-energy recommendations
-        3. Logistics optimization suggestions
-        """
-        
-        response = gemini_model.generate_content(prompt)
-        return response.text
-    
-    except Exception as e:
-        return f"Error generating summary: {str(e)}"
 
 if __name__ == "__main__":
     import uvicorn

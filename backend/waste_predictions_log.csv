@@ -3697,3 +3697,31 @@ timestamp,predicted_class,confidence,image_name,day_of_week,month
 2025-02-10 00:45:54,plastic,0.9499732851982117,concept-protecting-world-plastic-waste-fighting-environmental-pollution-environment-globe-blue-garbage-bag-198009408.jpg,Monday,February
 2025-02-10 09:03:24,light blubs,0.839402437210083,aa-batteries-energy-household-appliances-battery-recycling-used-alkaline-batteries-aa-size-format-207676510.jpg,Monday,February
 2025-02-10 09:03:43,clothes,0.9789654612541199,bunch-unused-old-clothes-ready-recycling-circular-economy-174426808.jpg,Monday,February
+2025-02-10 09:52:54,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:06:46,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:07:05,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:07:06,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:07:31,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:07:35,e-waste,0.9917478561401367,broken-compact-discs-colorful-texture-detail-obsolete-digital-media-data-backup-archiving-eco-disposal-old-damaged-optical-160438438.jpg,Monday,February
+2025-02-10 10:08:50,e-waste,0.9667820334434509,colorful-background-electronic-components-small-depth-field-electrical-engineering-industry-eco-e-waste-disposal-circuit-124627953.jpg,Monday,February
+2025-02-10 10:29:56,e-waste,0.9667820334434509,colorful-background-electronic-components-small-depth-field-electrical-engineering-industry-eco-e-waste-disposal-circuit-124627953.jpg,Monday,February
+2025-02-10 15:42:09,clothes,0.4400438964366913,detail-female-hand-disposing-organic-waste-proper-bin-kitchen-background-197910873.jpg,Monday,February
+2025-02-10 15:42:34,clothes,0.4400438964366913,detail-female-hand-disposing-organic-waste-proper-bin-kitchen-background-197910873.jpg,Monday,February
+2025-02-10 15:52:22,clothes,0.8359736800193787,detail-female-hand-disposing-organic-waste-proper-bin-kitchen-background-200308382.jpg,Monday,February
+2025-02-10 15:52:37,batteries,0.38113799691200256,organic-waste-trash-can-white-background-close-up-copy-space-organic-waste-trash-can-white-background-close-up-177535610.jpg,Monday,February
+2025-02-10 15:52:45,clothes,0.4400438964366913,detail-female-hand-disposing-organic-waste-proper-bin-kitchen-background-197910873.jpg,Monday,February
+2025-02-10 15:52:54,plastic,0.9527794718742371,ugly-deformed-potatoes-grey-background-top-view-concept-food-organic-waste-reduction-using-cooking-imperfect-products-209466058.jpg,Monday,February
+2025-02-10 15:53:03,paper,0.9120418429374695,organic-waste-bin-view-green-bin-full-dead-autumn-leaves-as-waste-seen-backyard-home-176192253.jpg,Monday,February
+2025-02-10 15:53:38,clothes,0.9834603667259216,clothes-folded-recycling-sign-white-background-149112957.jpg,Monday,February
+2025-02-10 15:54:00,plastic,0.5936387181282043,corydalis-cava-plastic-waste-covered-landfill-northwest-germany-growing-next-to-bad-iburg-179827801.jpg,Monday,February
+2025-02-10 17:35:23,plastic,0.9523154497146606,empty-colored-carbonated-drink-bottles-plastic-waste-empty-colored-carbonated-drink-bottles-plastic-waste-173422378.jpg,Monday,February
+2025-02-10 17:35:29,plastic,0.9523154497146606,empty-colored-carbonated-drink-bottles-plastic-waste-empty-colored-carbonated-drink-bottles-plastic-waste-173422378.jpg,Monday,February
+2025-02-10 17:36:56,plastic,0.8649475574493408,bottle-plastic-waste-bangkok-thailand-april-bottles-soft-drinks-floating-small-dirty-canal-143828120.jpg,Monday,February
+2025-02-10 17:51:08,light blubs,0.839402437210083,aa-batteries-energy-household-appliances-battery-recycling-used-alkaline-batteries-aa-size-format-207676510.jpg,Monday,February
+2025-02-10 17:51:20,clothes,0.9789654612541199,bunch-unused-old-clothes-ready-recycling-circular-economy-174426808.jpg,Monday,February
+2025-02-10 18:10:33,clothes,0.9789654612541199,bunch-unused-old-clothes-ready-recycling-circular-economy-174426808.jpg,Monday,February
+2025-02-10 23:24:47,clothes,0.9753974080085754,background-heap-old-dirty-clothes-recycling-top-view-secondary-utilization-concept-175986639.jpg,Monday,February
+2025-02-10 23:25:04,metal,0.9629891514778137,empty-colored-carbonated-drink-bottles-plastic-waste-empty-colored-carbonated-drink-bottles-plastic-waste-173422270.jpg,Monday,February
+2025-02-10 23:25:13,plastic,0.9523154497146606,empty-colored-carbonated-drink-bottles-plastic-waste-empty-colored-carbonated-drink-bottles-plastic-waste-173422378.jpg,Monday,February
+2025-02-10 23:25:31,clothes,0.9789654612541199,bunch-unused-old-clothes-ready-recycling-circular-economy-174426808.jpg,Monday,February
+2025-02-11 00:00:26,clothes,0.9789654612541199,bunch-unused-old-clothes-ready-recycling-circular-economy-174426808.jpg,Tuesday,February
