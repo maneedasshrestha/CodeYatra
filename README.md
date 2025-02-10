@@ -79,7 +79,7 @@ cd frontend
 npm run dev
 
 ```
-The admin interface will be available at `http://localhost:3001`
+The admin interface will be available at `http://localhost:3000`
 
 ### Backend
 ```bash
@@ -87,7 +87,7 @@ cd backend
 python main1.py
 ```
 Note: It is recommended that user create  virtual environment inside the backend folder and install all dependencies there.
-The API will be available at `http://localhost:8000`
+The API will be available at `http://localhost:8080`
 
 ## Project Structure
 
