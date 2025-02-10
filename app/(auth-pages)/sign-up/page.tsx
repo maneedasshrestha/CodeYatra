@@ -1,4 +1,5 @@
 import { signUpAction } from "@/app/actions";
+import Background from "@/components/Background";
 import { FormMessage, Message } from "@/components/form-message";
 import { SubmitButton } from "@/components/submit-button";
 import { Input } from "@/components/ui/input";
@@ -19,6 +20,7 @@ export default async function Signup(props: {
 
   return (
     <>
+    <Background/>
       <form className="flex flex-col min-w-64 max-w-64 mx-auto">
         <h1 className="text-2xl font-medium">Sign up</h1>
         <p className="text-sm text text-foreground">

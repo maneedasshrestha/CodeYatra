@@ -3,7 +3,6 @@ import { Card } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { MetricsCard } from "@/components/metrics-card"
 import { StatsChart } from "@/components/stats-chart"
-import { VaultTable } from "@/components/vault-table"
 import { BarChart3, ChevronDown, Globe, Home, LayoutDashboard, LifeBuoy, Settings, Wallet } from "lucide-react"
 import Link from "next/link"
 import { createClient } from "@/utils/supabase/server";
@@ -37,7 +36,7 @@ export default async function Page() {
                 <Link href="https://www.google.com">
                   <Button variant="ghost" className="w-full justify-start gap-2">
                   <BarChart3 className="h-4 w-4" />
-                  Statistics
+                  Analytics
                   </Button>
                 </Link>
             <Link href="/protected/map">
@@ -47,13 +46,13 @@ export default async function Page() {
             </Button>
             </Link>
             <Button variant="ghost" className="w-full justify-start gap-2">
-              <Home className="h-4 w-4" />
-              Funding
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg>
+              Eco Chat
             </Button>
             <Button variant="ghost" className="w-full justify-start gap-2">
-              <Wallet className="h-4 w-4" />
-              Analytics
-              <ChevronDown className="ml-auto h-4 w-4" />
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-focus"><circle cx="12" cy="12" r="3"/><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/></svg>
+              Classification Model
+              
             </Button>
             <Button variant="ghost" className="w-full justify-start gap-2">
               <LifeBuoy className="h-4 w-4" />
@@ -118,9 +117,7 @@ export default async function Page() {
             </div>
             <StatsChart />
           </Card>
-          <div className="mt-6">
-            <VaultTable />
-          </div>
+          
         </main>
       </div>
     </div>
