@@ -139,10 +139,6 @@ The API will be available at `http://localhost:8000`
 
 
 
-## Deployment
-
-[Include deployment instructions specific to your setup]
-
 ## Contributing
 
 1. Fork the repository
