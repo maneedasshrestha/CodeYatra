@@ -151,10 +151,3 @@ The API will be available at `http://localhost:8000`
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[
-
-## Support
-
-For support, please [contact information or process]
